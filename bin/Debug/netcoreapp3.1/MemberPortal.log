@@ -1,0 +1,893 @@
+INFO  07:34:49 Application started. Press Ctrl+C to shut down.
+INFO  07:34:49 Application started. Press Ctrl+C to shut down.
+INFO  07:34:49 Hosting environment: Development
+INFO  07:34:49 Hosting environment: Development
+INFO  07:34:49 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  07:34:49 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  07:34:49 Index method invoked.
+INFO  07:35:56 Login method invoked by the Username :Saras
+INFO  07:35:57 GetToken method invoked.
+INFO  07:36:02 Error occured in Login Error message:  One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  07:36:02 Error occured in Login Error message:  One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  07:59:03 Application started. Press Ctrl+C to shut down.
+INFO  07:59:04 Application started. Press Ctrl+C to shut down.
+INFO  07:59:04 Hosting environment: Development
+INFO  07:59:04 Hosting environment: Development
+INFO  07:59:04 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  07:59:04 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  07:59:06 Index method invoked.
+INFO  08:00:37 Login method invoked by the Username :Saras
+INFO  08:00:37 GetToken method invoked.
+INFO  08:00:43 Error occured in Login Error message:  One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  08:00:43 Error occured in Login Error message:  One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  08:00:48 Index method invoked.
+INFO  08:08:06 Login method invoked by the Username :Saras
+INFO  08:08:06 GetToken method invoked.
+INFO  08:26:07 Application started. Press Ctrl+C to shut down.
+INFO  08:26:07 Application started. Press Ctrl+C to shut down.
+INFO  08:26:07 Hosting environment: Development
+INFO  08:26:07 Hosting environment: Development
+INFO  08:26:07 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  08:26:07 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  08:26:07 Index method invoked.
+INFO  08:31:28 Login method invoked by the Username :Saras
+INFO  08:31:28 GetToken method invoked.
+INFO  08:44:48 Login method invoked by the Username :jack432
+INFO  08:44:48 GetToken method invoked.
+INFO  08:44:55 Index method invoked.
+INFO  08:44:56 jack432 logged in.
+INFO  08:45:47 SubmitClaim method invked.
+INFO  08:45:55 ClaimStatus method invked.
+INFO  08:46:03 ClaimStatus method invked.
+INFO  08:48:35 SubmitStatus mehod invoked with Memeber Id 0
+INFO  08:49:05 Index method invoked.
+INFO  08:50:28 Login method invoked by the Username :jack432
+INFO  08:50:28 GetToken method invoked.
+INFO  08:50:28 Index method invoked.
+INFO  08:50:28 jack432 logged in.
+INFO  08:50:31 ClaimStatus method invked.
+INFO  08:50:37 SubmitStatus mehod invoked with Memeber Id 0
+INFO  08:50:43 SubmitClaim method invked.
+INFO  08:50:45 ClaimStatus method invked.
+INFO  08:50:48 SubmitClaim method invked.
+INFO  09:07:36 SaveClaim method invoked.
+INFO  09:07:44 Index method invoked.
+INFO  09:24:43 Application started. Press Ctrl+C to shut down.
+INFO  09:24:43 Application started. Press Ctrl+C to shut down.
+INFO  09:24:43 Hosting environment: Development
+INFO  09:24:43 Hosting environment: Development
+INFO  09:24:43 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  09:24:43 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  09:24:44 Index method invoked.
+INFO  10:04:18 Application started. Press Ctrl+C to shut down.
+INFO  10:04:18 Application started. Press Ctrl+C to shut down.
+INFO  10:04:18 Hosting environment: Development
+INFO  10:04:18 Hosting environment: Development
+INFO  10:04:18 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:04:18 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:04:19 Index method invoked.
+INFO  10:13:09 Application started. Press Ctrl+C to shut down.
+INFO  10:13:09 Application started. Press Ctrl+C to shut down.
+INFO  10:13:09 Hosting environment: Development
+INFO  10:13:09 Hosting environment: Development
+INFO  10:13:09 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:13:09 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:13:09 Index method invoked.
+INFO  10:15:05 Application started. Press Ctrl+C to shut down.
+INFO  10:15:05 Application started. Press Ctrl+C to shut down.
+INFO  10:15:05 Hosting environment: Development
+INFO  10:15:05 Hosting environment: Development
+INFO  10:15:05 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:15:05 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:15:05 Index method invoked.
+INFO  10:24:16 Application started. Press Ctrl+C to shut down.
+INFO  10:24:16 Application started. Press Ctrl+C to shut down.
+INFO  10:24:16 Hosting environment: Development
+INFO  10:24:16 Hosting environment: Development
+INFO  10:24:16 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:24:16 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:24:16 Index method invoked.
+INFO  10:28:05 Application started. Press Ctrl+C to shut down.
+INFO  10:28:05 Application started. Press Ctrl+C to shut down.
+INFO  10:28:05 Hosting environment: Development
+INFO  10:28:05 Hosting environment: Development
+INFO  10:28:05 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:28:05 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:28:05 Index method invoked.
+INFO  10:30:43 Application started. Press Ctrl+C to shut down.
+INFO  10:30:43 Application started. Press Ctrl+C to shut down.
+INFO  10:30:43 Hosting environment: Development
+INFO  10:30:43 Hosting environment: Development
+INFO  10:30:43 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:30:43 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:30:43 Index method invoked.
+INFO  10:31:58 Application started. Press Ctrl+C to shut down.
+INFO  10:31:58 Application started. Press Ctrl+C to shut down.
+INFO  10:31:58 Hosting environment: Development
+INFO  10:31:58 Hosting environment: Development
+INFO  10:31:58 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:31:58 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:31:58 Index method invoked.
+INFO  10:32:17 Index method invoked.
+INFO  10:38:20 Application started. Press Ctrl+C to shut down.
+INFO  10:38:20 Application started. Press Ctrl+C to shut down.
+INFO  10:38:20 Hosting environment: Development
+INFO  10:38:20 Hosting environment: Development
+INFO  10:38:20 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:38:20 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:38:20 Index method invoked.
+INFO  10:38:20 Index method invoked.
+INFO  10:38:29 Index method invoked.
+INFO  10:39:46 Application started. Press Ctrl+C to shut down.
+INFO  10:39:46 Application started. Press Ctrl+C to shut down.
+INFO  10:39:46 Hosting environment: Development
+INFO  10:39:46 Hosting environment: Development
+INFO  10:39:46 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:39:46 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:39:46 Index method invoked.
+INFO  10:39:47 Index method invoked.
+INFO  10:40:05 Application started. Press Ctrl+C to shut down.
+INFO  10:40:05 Application started. Press Ctrl+C to shut down.
+INFO  10:40:05 Hosting environment: Development
+INFO  10:40:05 Hosting environment: Development
+INFO  10:40:05 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:40:05 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:40:05 Index method invoked.
+INFO  10:40:26 Index method invoked.
+INFO  10:40:49 Application started. Press Ctrl+C to shut down.
+INFO  10:40:49 Application started. Press Ctrl+C to shut down.
+INFO  10:40:49 Hosting environment: Development
+INFO  10:40:49 Hosting environment: Development
+INFO  10:40:49 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:40:49 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:40:49 Index method invoked.
+INFO  10:49:32 Application started. Press Ctrl+C to shut down.
+INFO  10:49:32 Application started. Press Ctrl+C to shut down.
+INFO  10:49:32 Hosting environment: Development
+INFO  10:49:32 Hosting environment: Development
+INFO  10:49:32 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:49:32 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:49:32 Index method invoked.
+INFO  10:51:49 Application started. Press Ctrl+C to shut down.
+INFO  10:51:49 Application started. Press Ctrl+C to shut down.
+INFO  10:51:49 Hosting environment: Development
+INFO  10:51:49 Hosting environment: Development
+INFO  10:51:49 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:51:49 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:51:50 Index method invoked.
+INFO  10:52:26 Application started. Press Ctrl+C to shut down.
+INFO  10:52:26 Application started. Press Ctrl+C to shut down.
+INFO  10:52:26 Hosting environment: Development
+INFO  10:52:26 Hosting environment: Development
+INFO  10:52:26 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:52:26 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:52:26 Index method invoked.
+INFO  10:52:26 Index method invoked.
+INFO  10:52:41 Index method invoked.
+INFO  10:55:51 Application started. Press Ctrl+C to shut down.
+INFO  10:55:51 Application started. Press Ctrl+C to shut down.
+INFO  10:55:51 Hosting environment: Development
+INFO  10:55:51 Hosting environment: Development
+INFO  10:55:51 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:55:51 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:55:51 Index method invoked.
+INFO  10:56:30 Application started. Press Ctrl+C to shut down.
+INFO  10:56:30 Application started. Press Ctrl+C to shut down.
+INFO  10:56:30 Hosting environment: Development
+INFO  10:56:30 Hosting environment: Development
+INFO  10:56:30 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:56:30 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:56:30 Index method invoked.
+INFO  10:56:30 Index method invoked.
+INFO  10:56:34 Index method invoked.
+INFO  10:56:44 Application started. Press Ctrl+C to shut down.
+INFO  10:56:44 Application started. Press Ctrl+C to shut down.
+INFO  10:56:44 Hosting environment: Development
+INFO  10:56:44 Hosting environment: Development
+INFO  10:56:44 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:56:44 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  10:56:44 Index method invoked.
+INFO  11:00:18 Application started. Press Ctrl+C to shut down.
+INFO  11:00:18 Application started. Press Ctrl+C to shut down.
+INFO  11:00:18 Hosting environment: Development
+INFO  11:00:18 Hosting environment: Development
+INFO  11:00:18 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:00:18 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:00:18 Index method invoked.
+INFO  11:00:52 Application started. Press Ctrl+C to shut down.
+INFO  11:00:52 Application started. Press Ctrl+C to shut down.
+INFO  11:00:52 Hosting environment: Development
+INFO  11:00:52 Hosting environment: Development
+INFO  11:00:52 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:00:52 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:00:52 Index method invoked.
+INFO  11:00:56 Index method invoked.
+INFO  11:00:57 Index method invoked.
+INFO  11:00:58 Index method invoked.
+INFO  11:01:24 Application started. Press Ctrl+C to shut down.
+INFO  11:01:24 Application started. Press Ctrl+C to shut down.
+INFO  11:01:24 Hosting environment: Development
+INFO  11:01:24 Hosting environment: Development
+INFO  11:01:24 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:01:24 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:01:24 Index method invoked.
+INFO  11:01:54 Application started. Press Ctrl+C to shut down.
+INFO  11:01:54 Application started. Press Ctrl+C to shut down.
+INFO  11:01:54 Hosting environment: Development
+INFO  11:01:54 Hosting environment: Development
+INFO  11:01:54 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:01:54 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:01:54 Index method invoked.
+INFO  11:02:22 Application started. Press Ctrl+C to shut down.
+INFO  11:02:22 Application started. Press Ctrl+C to shut down.
+INFO  11:02:22 Hosting environment: Development
+INFO  11:02:22 Hosting environment: Development
+INFO  11:02:22 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:02:22 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:02:23 Index method invoked.
+INFO  11:03:40 Application started. Press Ctrl+C to shut down.
+INFO  11:03:40 Application started. Press Ctrl+C to shut down.
+INFO  11:03:40 Hosting environment: Development
+INFO  11:03:40 Hosting environment: Development
+INFO  11:03:40 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:03:40 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:03:40 Index method invoked.
+INFO  11:03:43 Index method invoked.
+INFO  11:04:45 Application started. Press Ctrl+C to shut down.
+INFO  11:04:45 Application started. Press Ctrl+C to shut down.
+INFO  11:04:45 Hosting environment: Development
+INFO  11:04:45 Hosting environment: Development
+INFO  11:04:45 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:04:45 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:04:45 Index method invoked.
+INFO  11:05:23 Application started. Press Ctrl+C to shut down.
+INFO  11:05:23 Application started. Press Ctrl+C to shut down.
+INFO  11:05:23 Hosting environment: Development
+INFO  11:05:23 Hosting environment: Development
+INFO  11:05:23 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:05:23 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:05:23 Index method invoked.
+INFO  11:05:28 Index method invoked.
+INFO  11:08:31 Application started. Press Ctrl+C to shut down.
+INFO  11:08:31 Application started. Press Ctrl+C to shut down.
+INFO  11:08:31 Hosting environment: Development
+INFO  11:08:31 Hosting environment: Development
+INFO  11:08:31 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:08:31 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:08:31 Index method invoked.
+INFO  11:09:07 Application started. Press Ctrl+C to shut down.
+INFO  11:09:07 Application started. Press Ctrl+C to shut down.
+INFO  11:09:07 Hosting environment: Development
+INFO  11:09:07 Hosting environment: Development
+INFO  11:09:07 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:09:07 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:09:07 Index method invoked.
+INFO  11:09:24 Application started. Press Ctrl+C to shut down.
+INFO  11:09:24 Application started. Press Ctrl+C to shut down.
+INFO  11:09:24 Hosting environment: Development
+INFO  11:09:24 Hosting environment: Development
+INFO  11:09:24 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:09:24 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:09:24 Index method invoked.
+INFO  11:09:30 Index method invoked.
+INFO  11:09:31 Index method invoked.
+INFO  11:09:44 Application started. Press Ctrl+C to shut down.
+INFO  11:09:44 Application started. Press Ctrl+C to shut down.
+INFO  11:09:44 Hosting environment: Development
+INFO  11:09:44 Hosting environment: Development
+INFO  11:09:44 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:09:44 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:09:44 Index method invoked.
+INFO  11:10:29 Application started. Press Ctrl+C to shut down.
+INFO  11:10:29 Application started. Press Ctrl+C to shut down.
+INFO  11:10:29 Hosting environment: Development
+INFO  11:10:29 Hosting environment: Development
+INFO  11:10:29 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:10:29 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:10:30 Index method invoked.
+INFO  11:11:01 Application started. Press Ctrl+C to shut down.
+INFO  11:11:01 Application started. Press Ctrl+C to shut down.
+INFO  11:11:01 Hosting environment: Development
+INFO  11:11:01 Hosting environment: Development
+INFO  11:11:01 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:11:01 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:11:01 Index method invoked.
+INFO  11:11:30 Application started. Press Ctrl+C to shut down.
+INFO  11:11:30 Application started. Press Ctrl+C to shut down.
+INFO  11:11:30 Hosting environment: Development
+INFO  11:11:30 Hosting environment: Development
+INFO  11:11:30 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:11:30 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:11:30 Index method invoked.
+INFO  11:11:32 Index method invoked.
+INFO  11:18:16 Application started. Press Ctrl+C to shut down.
+INFO  11:18:16 Application started. Press Ctrl+C to shut down.
+INFO  11:18:16 Hosting environment: Development
+INFO  11:18:16 Hosting environment: Development
+INFO  11:18:16 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:18:16 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:18:16 Index method invoked.
+INFO  11:18:59 Application started. Press Ctrl+C to shut down.
+INFO  11:18:59 Application started. Press Ctrl+C to shut down.
+INFO  11:18:59 Hosting environment: Development
+INFO  11:18:59 Hosting environment: Development
+INFO  11:18:59 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:18:59 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:18:59 Index method invoked.
+INFO  11:19:34 Application started. Press Ctrl+C to shut down.
+INFO  11:19:34 Application started. Press Ctrl+C to shut down.
+INFO  11:19:34 Hosting environment: Development
+INFO  11:19:34 Hosting environment: Development
+INFO  11:19:34 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:19:34 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:19:34 Index method invoked.
+INFO  11:20:04 Application started. Press Ctrl+C to shut down.
+INFO  11:20:04 Application started. Press Ctrl+C to shut down.
+INFO  11:20:04 Hosting environment: Development
+INFO  11:20:04 Hosting environment: Development
+INFO  11:20:04 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:20:04 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:20:04 Index method invoked.
+INFO  11:21:05 Application started. Press Ctrl+C to shut down.
+INFO  11:21:05 Application started. Press Ctrl+C to shut down.
+INFO  11:21:05 Hosting environment: Development
+INFO  11:21:05 Hosting environment: Development
+INFO  11:21:05 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:21:05 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:21:05 Index method invoked.
+INFO  11:21:46 Application started. Press Ctrl+C to shut down.
+INFO  11:21:46 Application started. Press Ctrl+C to shut down.
+INFO  11:21:46 Hosting environment: Development
+INFO  11:21:46 Hosting environment: Development
+INFO  11:21:46 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:21:46 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:21:46 Index method invoked.
+INFO  11:22:08 Application started. Press Ctrl+C to shut down.
+INFO  11:22:08 Application started. Press Ctrl+C to shut down.
+INFO  11:22:08 Hosting environment: Development
+INFO  11:22:08 Hosting environment: Development
+INFO  11:22:08 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:22:08 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:22:08 Index method invoked.
+INFO  11:22:24 Application started. Press Ctrl+C to shut down.
+INFO  11:22:24 Application started. Press Ctrl+C to shut down.
+INFO  11:22:24 Hosting environment: Development
+INFO  11:22:24 Hosting environment: Development
+INFO  11:22:24 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:22:24 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:22:24 Index method invoked.
+INFO  11:22:41 Application started. Press Ctrl+C to shut down.
+INFO  11:22:41 Application started. Press Ctrl+C to shut down.
+INFO  11:22:41 Hosting environment: Development
+INFO  11:22:41 Hosting environment: Development
+INFO  11:22:41 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:22:41 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:22:41 Index method invoked.
+INFO  11:22:58 Application started. Press Ctrl+C to shut down.
+INFO  11:22:58 Application started. Press Ctrl+C to shut down.
+INFO  11:22:58 Hosting environment: Development
+INFO  11:22:58 Hosting environment: Development
+INFO  11:22:58 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:22:58 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:22:59 Index method invoked.
+INFO  11:24:27 Application started. Press Ctrl+C to shut down.
+INFO  11:24:27 Application started. Press Ctrl+C to shut down.
+INFO  11:24:27 Hosting environment: Development
+INFO  11:24:27 Hosting environment: Development
+INFO  11:24:27 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:24:27 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:24:27 Index method invoked.
+INFO  11:25:17 Application started. Press Ctrl+C to shut down.
+INFO  11:25:17 Application started. Press Ctrl+C to shut down.
+INFO  11:25:17 Hosting environment: Development
+INFO  11:25:17 Hosting environment: Development
+INFO  11:25:17 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:25:17 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:25:17 Index method invoked.
+INFO  11:25:41 Application started. Press Ctrl+C to shut down.
+INFO  11:25:41 Application started. Press Ctrl+C to shut down.
+INFO  11:25:41 Hosting environment: Development
+INFO  11:25:41 Hosting environment: Development
+INFO  11:25:41 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:25:41 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:25:42 Index method invoked.
+INFO  11:27:51 Application started. Press Ctrl+C to shut down.
+INFO  11:27:51 Application started. Press Ctrl+C to shut down.
+INFO  11:27:51 Hosting environment: Development
+INFO  11:27:51 Hosting environment: Development
+INFO  11:27:51 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:27:51 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:27:51 Index method invoked.
+INFO  11:28:45 Application started. Press Ctrl+C to shut down.
+INFO  11:28:45 Application started. Press Ctrl+C to shut down.
+INFO  11:28:45 Hosting environment: Development
+INFO  11:28:45 Hosting environment: Development
+INFO  11:28:45 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:28:45 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:28:45 Index method invoked.
+INFO  11:29:12 Application started. Press Ctrl+C to shut down.
+INFO  11:29:12 Application started. Press Ctrl+C to shut down.
+INFO  11:29:12 Hosting environment: Development
+INFO  11:29:12 Hosting environment: Development
+INFO  11:29:12 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:29:12 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:29:12 Index method invoked.
+INFO  11:41:57 Application started. Press Ctrl+C to shut down.
+INFO  11:41:57 Application started. Press Ctrl+C to shut down.
+INFO  11:41:57 Hosting environment: Development
+INFO  11:41:57 Hosting environment: Development
+INFO  11:41:57 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:41:57 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:41:57 Index method invoked.
+INFO  11:43:09 Application started. Press Ctrl+C to shut down.
+INFO  11:43:09 Application started. Press Ctrl+C to shut down.
+INFO  11:43:09 Hosting environment: Development
+INFO  11:43:09 Hosting environment: Development
+INFO  11:43:09 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:43:09 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:43:09 Index method invoked.
+INFO  11:44:37 Application started. Press Ctrl+C to shut down.
+INFO  11:44:37 Application started. Press Ctrl+C to shut down.
+INFO  11:44:37 Hosting environment: Development
+INFO  11:44:37 Hosting environment: Development
+INFO  11:44:37 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:44:37 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:44:38 Index method invoked.
+INFO  11:45:37 Application started. Press Ctrl+C to shut down.
+INFO  11:45:37 Application started. Press Ctrl+C to shut down.
+INFO  11:45:37 Hosting environment: Development
+INFO  11:45:37 Hosting environment: Development
+INFO  11:45:37 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:45:37 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:45:37 Index method invoked.
+INFO  11:46:07 Application started. Press Ctrl+C to shut down.
+INFO  11:46:07 Application started. Press Ctrl+C to shut down.
+INFO  11:46:07 Hosting environment: Development
+INFO  11:46:07 Hosting environment: Development
+INFO  11:46:07 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:46:07 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:46:07 Index method invoked.
+INFO  11:47:53 Application started. Press Ctrl+C to shut down.
+INFO  11:47:53 Application started. Press Ctrl+C to shut down.
+INFO  11:47:53 Hosting environment: Development
+INFO  11:47:53 Hosting environment: Development
+INFO  11:47:53 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:47:53 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:47:53 Index method invoked.
+INFO  05:51:25 Application started. Press Ctrl+C to shut down.
+INFO  05:51:25 Application started. Press Ctrl+C to shut down.
+INFO  05:51:25 Hosting environment: Development
+INFO  05:51:25 Hosting environment: Development
+INFO  05:51:25 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  05:51:25 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  05:51:26 Index method invoked.
+INFO  11:25:57 Application started. Press Ctrl+C to shut down.
+INFO  11:25:57 Application started. Press Ctrl+C to shut down.
+INFO  11:25:57 Hosting environment: Development
+INFO  11:25:57 Hosting environment: Development
+INFO  11:25:57 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:25:57 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:25:58 Index method invoked.
+INFO  11:26:45 Login method invoked by the Username :Saras
+INFO  11:26:45 GetToken method invoked.
+INFO  11:26:48 Login method invoked by the Username :Saras
+INFO  11:26:48 GetToken method invoked.
+INFO  11:26:49 Index method invoked.
+INFO  11:26:50 Saras logged in.
+INFO  11:27:04 SubmitClaim method invked.
+INFO  11:30:00 SaveClaim method invoked.
+INFO  11:30:14 Index method invoked.
+INFO  11:30:29 Login method invoked by the Username :Saras
+INFO  11:30:29 GetToken method invoked.
+INFO  11:30:38 Login method invoked by the Username :Saras
+INFO  11:30:38 GetToken method invoked.
+INFO  11:31:58 Application started. Press Ctrl+C to shut down.
+INFO  11:31:58 Application started. Press Ctrl+C to shut down.
+INFO  11:31:58 Hosting environment: Development
+INFO  11:31:58 Hosting environment: Development
+INFO  11:31:58 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:31:58 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:32:00 Index method invoked.
+INFO  11:32:21 Login method invoked by the Username :Saras
+INFO  11:32:21 GetToken method invoked.
+INFO  11:32:23 Index method invoked.
+INFO  11:32:24 Saras logged in.
+INFO  11:32:27 ClaimStatus method invked.
+INFO  11:33:17 SubmitStatus mehod invoked with Memeber Id 0
+INFO  11:33:26 ClaimStatus method invked.
+INFO  11:33:29 SubmitClaim method invked.
+INFO  11:33:30 SubmitClaim method invked.
+INFO  11:33:32 ClaimStatus method invked.
+INFO  11:33:36 ClaimStatus method invked.
+INFO  11:33:38 SubmitClaim method invked.
+INFO  11:52:39 Application started. Press Ctrl+C to shut down.
+INFO  11:52:39 Application started. Press Ctrl+C to shut down.
+INFO  11:52:39 Hosting environment: Development
+INFO  11:52:39 Hosting environment: Development
+INFO  11:52:39 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:52:39 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:52:40 Index method invoked.
+INFO  11:53:30 Login method invoked by the Username :Saras
+INFO  11:53:30 GetToken method invoked.
+INFO  11:53:32 Index method invoked.
+INFO  11:53:33 Saras logged in.
+INFO  11:53:36 ClaimStatus method invked.
+INFO  11:53:49 ClaimStatus method invked.
+INFO  11:53:55 ClaimStatus method invked.
+INFO  11:53:56 SubmitClaim method invked.
+INFO  11:54:02 ClaimStatus method invked.
+INFO  11:57:02 Index method invoked.
+INFO  11:57:16 Login method invoked by the Username :Saras
+INFO  11:57:16 GetToken method invoked.
+INFO  11:57:16 Index method invoked.
+INFO  11:57:16 Saras logged in.
+INFO  11:57:18 SubmitClaim method invked.
+INFO  11:57:43 SaveClaim method invoked.
+INFO  11:57:47 ViewBill method invoked!
+INFO  11:58:04 ClaimStatus method invked.
+INFO  11:58:05 SubmitClaim method invked.
+INFO  12:25:37 Application started. Press Ctrl+C to shut down.
+INFO  12:25:37 Application started. Press Ctrl+C to shut down.
+INFO  12:25:37 Hosting environment: Development
+INFO  12:25:37 Hosting environment: Development
+INFO  12:25:37 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:25:37 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:25:37 Index method invoked.
+INFO  12:25:59 Login method invoked by the Username :Saras
+INFO  12:25:59 GetToken method invoked.
+INFO  12:26:01 Index method invoked.
+INFO  12:26:02 Saras logged in.
+INFO  12:28:54 Application started. Press Ctrl+C to shut down.
+INFO  12:28:54 Application started. Press Ctrl+C to shut down.
+INFO  12:28:54 Hosting environment: Development
+INFO  12:28:54 Hosting environment: Development
+INFO  12:28:54 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:28:54 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:28:55 Index method invoked.
+INFO  12:29:08 Login method invoked by the Username :Saras
+INFO  12:29:08 GetToken method invoked.
+INFO  12:29:09 Index method invoked.
+INFO  12:29:09 Saras logged in.
+INFO  12:29:13 SubmitClaim method invked.
+INFO  12:29:23 ClaimStatus method invked.
+INFO  12:29:30 SubmitClaim method invked.
+INFO  12:30:16 Application started. Press Ctrl+C to shut down.
+INFO  12:30:16 Application started. Press Ctrl+C to shut down.
+INFO  12:30:16 Hosting environment: Development
+INFO  12:30:16 Hosting environment: Development
+INFO  12:30:16 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:30:16 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:30:16 Index method invoked.
+INFO  12:30:38 Login method invoked by the Username :Saras
+INFO  12:30:38 GetToken method invoked.
+INFO  12:30:38 Index method invoked.
+INFO  12:30:38 Saras logged in.
+INFO  12:30:40 SubmitClaim method invked.
+INFO  12:31:57 Application started. Press Ctrl+C to shut down.
+INFO  12:31:57 Application started. Press Ctrl+C to shut down.
+INFO  12:31:57 Hosting environment: Development
+INFO  12:31:57 Hosting environment: Development
+INFO  12:31:57 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:31:57 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:31:57 Index method invoked.
+INFO  12:32:08 Login method invoked by the Username :Saras
+INFO  12:32:08 GetToken method invoked.
+INFO  12:32:09 Index method invoked.
+INFO  12:32:09 Saras logged in.
+INFO  12:32:10 SubmitClaim method invked.
+INFO  12:32:42 Application started. Press Ctrl+C to shut down.
+INFO  12:32:42 Application started. Press Ctrl+C to shut down.
+INFO  12:32:42 Hosting environment: Development
+INFO  12:32:42 Hosting environment: Development
+INFO  12:32:42 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:32:42 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:32:42 Index method invoked.
+INFO  12:32:55 Login method invoked by the Username :Saras
+INFO  12:32:55 GetToken method invoked.
+INFO  12:32:56 Index method invoked.
+INFO  12:32:56 Saras logged in.
+INFO  12:32:58 SubmitClaim method invked.
+INFO  12:33:47 Application started. Press Ctrl+C to shut down.
+INFO  12:33:47 Application started. Press Ctrl+C to shut down.
+INFO  12:33:47 Hosting environment: Development
+INFO  12:33:47 Hosting environment: Development
+INFO  12:33:47 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:33:47 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:33:47 Index method invoked.
+INFO  12:34:51 Application started. Press Ctrl+C to shut down.
+INFO  12:34:51 Application started. Press Ctrl+C to shut down.
+INFO  12:34:51 Hosting environment: Development
+INFO  12:34:51 Hosting environment: Development
+INFO  12:34:51 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:34:51 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:34:51 Index method invoked.
+INFO  12:35:02 Login method invoked by the Username :Saras
+INFO  12:35:02 GetToken method invoked.
+INFO  12:35:03 Index method invoked.
+INFO  12:35:03 Saras logged in.
+INFO  12:35:24 SubmitClaim method invked.
+INFO  12:36:30 Application started. Press Ctrl+C to shut down.
+INFO  12:36:30 Application started. Press Ctrl+C to shut down.
+INFO  12:36:30 Hosting environment: Development
+INFO  12:36:30 Hosting environment: Development
+INFO  12:36:30 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:36:30 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:36:31 Index method invoked.
+INFO  12:37:04 Application started. Press Ctrl+C to shut down.
+INFO  12:37:04 Application started. Press Ctrl+C to shut down.
+INFO  12:37:04 Hosting environment: Development
+INFO  12:37:04 Hosting environment: Development
+INFO  12:37:04 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:37:04 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:37:05 Index method invoked.
+INFO  12:37:16 Login method invoked by the Username :Saras
+INFO  12:37:16 GetToken method invoked.
+INFO  12:37:17 Index method invoked.
+INFO  12:37:17 Saras logged in.
+INFO  12:37:20 SubmitClaim method invked.
+INFO  12:37:36 ClaimStatus method invked.
+INFO  12:37:42 ClaimStatus method invked.
+INFO  12:37:43 SubmitClaim method invked.
+INFO  12:40:12 Application started. Press Ctrl+C to shut down.
+INFO  12:40:12 Application started. Press Ctrl+C to shut down.
+INFO  12:40:12 Hosting environment: Development
+INFO  12:40:12 Hosting environment: Development
+INFO  12:40:12 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:40:12 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:40:12 Index method invoked.
+INFO  12:41:09 Application started. Press Ctrl+C to shut down.
+INFO  12:41:09 Application started. Press Ctrl+C to shut down.
+INFO  12:41:09 Hosting environment: Development
+INFO  12:41:09 Hosting environment: Development
+INFO  12:41:09 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:41:09 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:41:09 Index method invoked.
+INFO  12:41:21 Login method invoked by the Username :Saras
+INFO  12:41:21 GetToken method invoked.
+INFO  12:41:22 Index method invoked.
+INFO  12:41:22 Saras logged in.
+INFO  12:41:24 SubmitClaim method invked.
+INFO  12:42:04 Application started. Press Ctrl+C to shut down.
+INFO  12:42:04 Application started. Press Ctrl+C to shut down.
+INFO  12:42:04 Hosting environment: Development
+INFO  12:42:04 Hosting environment: Development
+INFO  12:42:04 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:42:04 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:42:05 Index method invoked.
+INFO  12:42:38 Application started. Press Ctrl+C to shut down.
+INFO  12:42:38 Application started. Press Ctrl+C to shut down.
+INFO  12:42:38 Hosting environment: Development
+INFO  12:42:38 Hosting environment: Development
+INFO  12:42:38 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:42:38 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:42:38 Index method invoked.
+INFO  12:42:46 Application started. Press Ctrl+C to shut down.
+INFO  12:42:46 Application started. Press Ctrl+C to shut down.
+INFO  12:42:46 Hosting environment: Development
+INFO  12:42:46 Hosting environment: Development
+INFO  12:42:46 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:42:46 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:42:47 Index method invoked.
+INFO  12:42:55 Application started. Press Ctrl+C to shut down.
+INFO  12:42:55 Application started. Press Ctrl+C to shut down.
+INFO  12:42:55 Hosting environment: Development
+INFO  12:42:55 Hosting environment: Development
+INFO  12:42:55 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:42:55 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:42:55 Index method invoked.
+INFO  12:43:49 Application started. Press Ctrl+C to shut down.
+INFO  12:43:49 Application started. Press Ctrl+C to shut down.
+INFO  12:43:49 Hosting environment: Development
+INFO  12:43:49 Hosting environment: Development
+INFO  12:43:49 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:43:49 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:43:49 Index method invoked.
+INFO  12:43:59 Login method invoked by the Username :Saras
+INFO  12:43:59 GetToken method invoked.
+INFO  12:44:00 Index method invoked.
+INFO  12:44:01 Saras logged in.
+INFO  12:44:08 SubmitClaim method invked.
+INFO  12:44:16 ClaimStatus method invked.
+INFO  12:44:23 ClaimStatus method invked.
+INFO  12:44:54 Application started. Press Ctrl+C to shut down.
+INFO  12:44:55 Application started. Press Ctrl+C to shut down.
+INFO  12:44:55 Hosting environment: Development
+INFO  12:44:55 Hosting environment: Development
+INFO  12:44:55 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:44:55 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:44:55 Index method invoked.
+INFO  12:45:17 Application started. Press Ctrl+C to shut down.
+INFO  12:45:17 Application started. Press Ctrl+C to shut down.
+INFO  12:45:17 Hosting environment: Development
+INFO  12:45:17 Hosting environment: Development
+INFO  12:45:17 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:45:17 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:45:17 Index method invoked.
+INFO  12:45:35 Application started. Press Ctrl+C to shut down.
+INFO  12:45:35 Application started. Press Ctrl+C to shut down.
+INFO  12:45:35 Hosting environment: Development
+INFO  12:45:35 Hosting environment: Development
+INFO  12:45:35 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:45:35 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:45:35 Index method invoked.
+INFO  12:45:46 Application started. Press Ctrl+C to shut down.
+INFO  12:45:46 Application started. Press Ctrl+C to shut down.
+INFO  12:45:46 Hosting environment: Development
+INFO  12:45:46 Hosting environment: Development
+INFO  12:45:46 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:45:46 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:45:46 Index method invoked.
+INFO  12:47:15 Application started. Press Ctrl+C to shut down.
+INFO  12:47:15 Application started. Press Ctrl+C to shut down.
+INFO  12:47:15 Hosting environment: Development
+INFO  12:47:15 Hosting environment: Development
+INFO  12:47:15 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:47:15 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:47:15 Index method invoked.
+INFO  12:47:37 Application started. Press Ctrl+C to shut down.
+INFO  12:47:37 Application started. Press Ctrl+C to shut down.
+INFO  12:47:37 Hosting environment: Development
+INFO  12:47:37 Hosting environment: Development
+INFO  12:47:37 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:47:37 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:47:37 Index method invoked.
+INFO  12:48:32 Login method invoked by the Username :Saras
+INFO  12:48:32 GetToken method invoked.
+INFO  12:48:33 Index method invoked.
+INFO  12:48:33 Saras logged in.
+INFO  12:48:45 SubmitClaim method invked.
+INFO  12:48:51 ClaimStatus method invked.
+INFO  12:53:03 Application started. Press Ctrl+C to shut down.
+INFO  12:53:03 Application started. Press Ctrl+C to shut down.
+INFO  12:53:03 Hosting environment: Development
+INFO  12:53:03 Hosting environment: Development
+INFO  12:53:03 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:53:03 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:53:03 Index method invoked.
+INFO  12:53:16 Application started. Press Ctrl+C to shut down.
+INFO  12:53:16 Application started. Press Ctrl+C to shut down.
+INFO  12:53:16 Hosting environment: Development
+INFO  12:53:16 Hosting environment: Development
+INFO  12:53:16 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:53:16 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:53:17 Index method invoked.
+INFO  12:53:17 Index method invoked.
+INFO  12:53:29 Index method invoked.
+INFO  12:53:31 Index method invoked.
+INFO  12:53:32 Index method invoked.
+INFO  12:53:45 Login method invoked by the Username :Saras
+INFO  12:53:45 GetToken method invoked.
+INFO  12:53:46 Index method invoked.
+INFO  12:53:46 Saras logged in.
+INFO  12:53:48 SubmitClaim method invked.
+INFO  12:54:00 ClaimStatus method invked.
+INFO  12:54:06 ClaimStatus method invked.
+INFO  12:54:20 SubmitClaim method invked.
+INFO  12:54:25 ClaimStatus method invked.
+INFO  12:54:29 ClaimStatus method invked.
+INFO  12:54:30 SubmitClaim method invked.
+INFO  11:36:38 Application started. Press Ctrl+C to shut down.
+INFO  11:36:39 Application started. Press Ctrl+C to shut down.
+INFO  11:36:39 Hosting environment: Development
+INFO  11:36:39 Hosting environment: Development
+INFO  11:36:39 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:36:39 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  11:36:39 Index method invoked.
+INFO  11:37:07 Login method invoked by the Username :Saras
+INFO  11:37:07 GetToken method invoked.
+INFO  11:37:20 Index method invoked.
+INFO  11:37:22 Saras logged in.
+INFO  11:37:30 SubmitClaim method invked.
+INFO  11:37:39 ClaimStatus method invked.
+INFO  11:37:46 SubmitStatus mehod invoked with Memeber Id 0
+INFO  11:37:56 SubmitClaim method invked.
+INFO  11:39:48 SaveClaim method invoked.
+INFO  11:39:58 SubmitClaim method invked.
+INFO  11:47:35 SaveClaim method invoked.
+INFO  11:47:50 Index method invoked.
+INFO  11:48:01 Login method invoked by the Username :Saras
+INFO  11:48:01 GetToken method invoked.
+INFO  11:48:02 Index method invoked.
+INFO  11:48:02 Saras logged in.
+INFO  11:48:05 SubmitClaim method invked.
+INFO  11:48:27 SaveClaim method invoked.
+INFO  11:48:34 SubmitClaim method invked.
+INFO  11:49:00 SaveClaim method invoked.
+INFO  11:49:02 ViewBill method invoked!
+INFO  11:49:32 ClaimStatus method invked.
+INFO  11:49:39 SubmitStatus mehod invoked with Memeber Id 0
+INFO  11:50:04 ViewBill method invoked!
+INFO  11:55:33 Index method invoked.
+INFO  11:55:42 Login method invoked by the Username :Saras
+INFO  11:55:42 GetToken method invoked.
+INFO  11:55:43 Index method invoked.
+INFO  11:55:43 Saras logged in.
+INFO  11:55:45 SubmitClaim method invked.
+INFO  11:56:12 SaveClaim method invoked.
+INFO  11:56:15 ViewBill method invoked!
+INFO  12:05:33 Index method invoked.
+INFO  12:05:47 Login method invoked by the Username :Saras
+INFO  12:05:47 GetToken method invoked.
+INFO  12:05:48 Index method invoked.
+INFO  12:05:48 Saras logged in.
+INFO  12:05:49 SubmitClaim method invked.
+INFO  12:07:44 Application started. Press Ctrl+C to shut down.
+INFO  12:07:44 Application started. Press Ctrl+C to shut down.
+INFO  12:07:44 Hosting environment: Development
+INFO  12:07:44 Hosting environment: Development
+INFO  12:07:44 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:07:44 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:07:44 Index method invoked.
+INFO  12:07:57 Login method invoked by the Username :Saras
+INFO  12:07:57 GetToken method invoked.
+INFO  12:07:57 Index method invoked.
+INFO  12:07:57 Saras logged in.
+INFO  12:08:00 SubmitClaim method invked.
+INFO  12:10:50 Application started. Press Ctrl+C to shut down.
+INFO  12:10:50 Application started. Press Ctrl+C to shut down.
+INFO  12:10:50 Hosting environment: Development
+INFO  12:10:50 Hosting environment: Development
+INFO  12:10:50 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:10:50 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:10:50 Index method invoked.
+INFO  12:12:38 Application started. Press Ctrl+C to shut down.
+INFO  12:12:38 Application started. Press Ctrl+C to shut down.
+INFO  12:12:38 Hosting environment: Development
+INFO  12:12:38 Hosting environment: Development
+INFO  12:12:38 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:12:38 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  12:12:39 Index method invoked.
+INFO  12:12:59 Login method invoked by the Username :Saras
+INFO  12:12:59 GetToken method invoked.
+INFO  12:13:01 Index method invoked.
+INFO  12:13:01 Saras logged in.
+INFO  12:13:03 SubmitClaim method invked.
+INFO  12:13:28 SaveClaim method invoked.
+INFO  12:13:38 ViewBill method invoked!
+INFO  12:16:07 Logout method invoked.  logged out.
+INFO  12:16:07 Index method invoked.
+INFO  12:16:17 Login method invoked by the Username :Syed
+INFO  12:16:17 GetToken method invoked.
+INFO  12:16:17 Index method invoked.
+INFO  12:16:17 Syed logged in.
+INFO  12:16:25 SubmitClaim method invked.
+INFO  12:16:27 ClaimStatus method invked.
+INFO  12:16:28 ViewBill method invoked!
+INFO  12:16:34 ViewBill method invoked!
+INFO  12:16:35 SubmitClaim method invked.
+INFO  12:16:37 ViewBill method invoked!
+INFO  12:16:50 SubmitClaim method invked.
+INFO  12:18:40 Logout method invoked.  logged out.
+INFO  12:18:40 Index method invoked.
+INFO  02:35:55 Application started. Press Ctrl+C to shut down.
+INFO  02:35:55 Application started. Press Ctrl+C to shut down.
+INFO  02:35:55 Hosting environment: Development
+INFO  02:35:55 Hosting environment: Development
+INFO  02:35:55 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  02:35:55 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  02:35:55 Index method invoked.
+INFO  02:36:21 Login method invoked by the Username :Saras
+INFO  02:36:21 GetToken method invoked.
+INFO  02:36:36 Index method invoked.
+INFO  03:38:06 Application started. Press Ctrl+C to shut down.
+INFO  03:38:06 Application started. Press Ctrl+C to shut down.
+INFO  03:38:06 Hosting environment: Development
+INFO  03:38:06 Hosting environment: Development
+INFO  03:38:06 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  03:38:06 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\MemberPortal
+INFO  03:38:07 Index method invoked.
+INFO  03:50:04 Index method invoked.
+INFO  03:50:15 Login method invoked by the Username :Saras
+INFO  03:50:15 GetToken method invoked.
+INFO  03:50:21 Index method invoked.
+INFO  03:50:22 Saras logged in.
+INFO  03:51:12 SubmitClaim method invked.
+INFO  03:53:31 Index method invoked.
+INFO  03:53:42 Login method invoked by the Username :Saras
+INFO  03:53:42 GetToken method invoked.
+INFO  03:53:42 Index method invoked.
+INFO  03:53:42 Saras logged in.
+INFO  03:53:44 ClaimStatus method invked.
+INFO  04:09:20 Index method invoked.
+INFO  04:34:48 Login method invoked by the Username :Saras
+INFO  04:34:48 GetToken method invoked.
