@@ -8705,11 +8705,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Downloads\\ClaimManagementSystem-2\\MemberPortal\\MemberPortal.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Downloads\\ClaimManagementSystem\\MemberPortal\\MemberPortal.csproj",
       "projectName": "MemberPortal",
-      "projectPath": "C:\\Users\\HP\\Downloads\\ClaimManagementSystem-2\\MemberPortal\\MemberPortal.csproj",
+      "projectPath": "C:\\Users\\HP\\Downloads\\ClaimManagementSystem\\MemberPortal\\MemberPortal.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Downloads\\ClaimManagementSystem-2\\MemberPortal\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Downloads\\ClaimManagementSystem\\MemberPortal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SfDHUxFcFrMMVzU1AGAdyP5sYPBIZXupI6FvvLPRBtI/DHfaVi4GGygbG5rDlgcq/qb7u3Ashj894VisCBMQaQ==",
+  "dgSpecHash": "XgNvWIoEJ1Dtt+kkuYDsuoU4BdZpzkMl+TknrF5LSDoCA4C93EvbUO0JrBYQx3XJPeYju1zDqodsomUYP2m/8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Downloads\\ClaimManagementSystem-2\\MemberPortal\\MemberPortal.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Downloads\\ClaimManagementSystem\\MemberPortal\\MemberPortal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\log4net\\2.0.11\\log4net.2.0.11.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.9\\microsoft.aspnetcore.authentication.jwtbearer.3.1.9.nupkg.sha512",

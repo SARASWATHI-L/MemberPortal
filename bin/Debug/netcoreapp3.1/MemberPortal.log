@@ -891,3 +891,10 @@ INFO  03:53:44 ClaimStatus method invked.
 INFO  04:09:20 Index method invoked.
 INFO  04:34:48 Login method invoked by the Username :Saras
 INFO  04:34:48 GetToken method invoked.
+INFO  09:15:08 Application started. Press Ctrl+C to shut down.
+INFO  09:15:08 Application started. Press Ctrl+C to shut down.
+INFO  09:15:08 Hosting environment: Development
+INFO  09:15:08 Hosting environment: Development
+INFO  09:15:08 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:15:08 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:15:08 Index method invoked.
