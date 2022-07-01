@@ -3,6 +3,21 @@
 @{
     ViewData["Title"] = "ViewBill";
 }
+@{
+    string freq = "";
+    if(Model.MemberID == 1 || Model.MemberID == 2)
+    {
+        freq = "Yearly Premium";
+    }
+    else if (Model.MemberID == 3)
+    {
+        freq = "Half-Yearly Premium";
+    }
+    else if(Model.MemberID == 4)
+    {
+        freq = "Monthly Premium";
+    }
+}
 
 @if (Model != null)
 {
@@ -27,7 +42,9 @@
                 <th>
                     @Html.DisplayName("LastPremiumPaidDate")
                 </th>
-                <th></th>
+                <th>
+                    @Html.DisplayName("Premium Frequency")
+                </th>
             </tr>
         </thead>
         <tbody>
@@ -51,6 +68,9 @@
                     @Html.DisplayFor(model => model.LastPremiumPaidDate)
                 </td>
                 <td>
+                    @Html.Display(@freq)
+                </td>
+            </tr>
         </tbody>
     </table>
 }
