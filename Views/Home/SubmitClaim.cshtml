@@ -5,49 +5,83 @@
 }
 
 <hr />
-<div class="row border border-light" id="bgcol">
-    <div class="col-md-4">
+<div class="border border-light" id="bgcol">
         <form asp-action="SaveClaim" method="post">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="row" id="grid">
 
+            <div class="col-lg-4">
             <div class="form-group">
                 <label asp-for="MemberID" class="control-label"></label>
-                <input asp-for="MemberID" class="form-control" />
+                <input asp-for="MemberID" class="form-control" id="mid"/>
                 <span asp-validation-for="MemberID" class="text-danger"></span>
             </div>
+            <div class="form-group">
+                <label asp-for="HospitalId" class="control-label"></label>
+                <input asp-for="HospitalId" class="form-control" id="hid"/>
+                <span asp-validation-for="HospitalId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="hospdetails" class="control-label">Hospital Details</label><br />
+                <textarea rows="10" cols="40" id="hospdetails"></textarea>
+            </div>
+            </div>
 
+
+            <div class="col-lg-4">
             <div class="form-group">
                 <label asp-for="PolicyID" class="control-label"></label>
-                <input asp-for="PolicyID" class="form-control" />
+                <input asp-for="PolicyID" class="form-control" id="pid"/>
                 <span asp-validation-for="PolicyID" class="text-danger"></span>
             </div>
 
             <div class="form-group">
                 <label asp-for="BenefitID" class="control-label"></label>
-                <input asp-for="BenefitID" class="form-control" />
+                <input asp-for="BenefitID" class="form-control" id="bid" />
                 <span asp-validation-for="BenefitID" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="HospitalId" class="control-label"></label>
-                <input asp-for="HospitalId" class="form-control" />
-                <span asp-validation-for="HospitalId" class="text-danger"></span>
+                    <label class="control-label" id="poplabel1">Clcik here</label><br />
+                    <input type="button" value="Get Eligible Claim Amount" class="btn btn-warning text-danger" id="geteligible"/>
+                    <br />
+            </div>
+            <div class="form-group">
+                <label class="control-label">Eligible ClaimAmount</label>
+                <input type="number" class="form-control" id="eligibleamt"/>
+                
+            </div>
+            <div class="form-group">
+                <br /><br />
+                <input type="submit" value="Submit Claim" class="btn btn-warning text-danger font-weight-bold" />
+            </div>
+            </div>
+
+
+            <div class="col-lg-4">
+                <div class="form-group">
+                    <label for="populate" class="control-label" id="poplabel">Click Here</label><br />
+                    <input type="button" value="Populate Details" class="btn btn-warning text-danger" id="populate"/>
+                </div>
+            <div class="form-group">
+                <label asp-for="BenefitName" class="control-label"></label>
+                <input asp-for="BenefitName" class="form-control" id="bname"/>
+                <span asp-validation-for="BenefitName" class="text-danger"></span>
+            </div>
+            <div class="form-group tohide">
+                <label asp-for="ClaimAmount" class="control-label"></label>
+                <input type="number" class="form-control" />
+                <br />
             </div>
             <div class="form-group">
                 <label asp-for="ClaimAmount" class="control-label"></label>
                 <input asp-for="ClaimAmount" class="form-control" />
-                <span asp-validation-for="ClaimAmount" class="text-danger"></span>
+                
+                
             </div>
-            <div class="form-group">
-                <label asp-for="BenefitName" class="control-label"></label>
-                <input asp-for="BenefitName" class="form-control" />
-                <span asp-validation-for="BenefitName" class="text-danger"></span>
             </div>
-
-            <div class="form-group">
-                <input type="submit" value="Submit" class="btn btn-primary" />
             </div>
         </form>
-    </div>
+    
 </div>
 
 

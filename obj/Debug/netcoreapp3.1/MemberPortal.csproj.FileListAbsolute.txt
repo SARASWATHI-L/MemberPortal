@@ -314,3 +314,4 @@ C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal\obj\Debug\netcoreapp3.1
 C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal\obj\Debug\netcoreapp3.1\MemberPortal.dll
 C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal\obj\Debug\netcoreapp3.1\MemberPortal.pdb
 C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal\obj\Debug\netcoreapp3.1\MemberPortal.genruntimeconfig.cache
+C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal\bin\Debug\netcoreapp3.1\libman.json

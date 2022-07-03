@@ -898,3 +898,1813 @@ INFO  09:15:08 Hosting environment: Development
 INFO  09:15:08 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
 INFO  09:15:08 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
 INFO  09:15:08 Index method invoked.
+INFO  09:58:29 Application started. Press Ctrl+C to shut down.
+INFO  09:58:29 Application started. Press Ctrl+C to shut down.
+INFO  09:58:29 Hosting environment: Development
+INFO  09:58:29 Hosting environment: Development
+INFO  09:58:29 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:58:29 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:58:30 Index method invoked.
+INFO  10:01:19 Login method invoked by the Username :Saras
+INFO  10:01:24 GetToken method invoked.
+INFO  10:01:34 Index method invoked.
+INFO  10:01:34 Saras logged in.
+INFO  10:01:40 SubmitClaim method invked.
+INFO  10:02:22 SaveClaim method invoked.
+INFO  10:02:28 ClaimStatus method invked.
+INFO  10:02:30 ViewBill method invoked!
+ERROR 10:02:32 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AspNetCore.Views_Home_ViewBill.ExecuteAsync() in C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal\Views\Home\ViewBill.cshtml:line 8
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 10:02:32 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AspNetCore.Views_Home_ViewBill.ExecuteAsync() in C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal\Views\Home\ViewBill.cshtml:line 8
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  10:06:11 Index method invoked.
+INFO  10:06:33 Login method invoked by the Username :Saras
+INFO  10:06:33 GetToken method invoked.
+INFO  10:06:34 Index method invoked.
+INFO  10:06:34 Saras logged in.
+INFO  10:06:37 SubmitClaim method invked.
+INFO  10:07:07 SaveClaim method invoked.
+INFO  10:07:19 ViewBill method invoked!
+INFO  10:11:45 Application started. Press Ctrl+C to shut down.
+INFO  10:11:45 Application started. Press Ctrl+C to shut down.
+INFO  10:11:45 Hosting environment: Development
+INFO  10:11:45 Hosting environment: Development
+INFO  10:11:45 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:11:45 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:11:46 Index method invoked.
+INFO  10:12:06 Login method invoked by the Username :Saras
+INFO  10:12:06 GetToken method invoked.
+INFO  10:12:06 Index method invoked.
+INFO  10:12:07 Saras logged in.
+INFO  10:12:11 SubmitClaim method invked.
+INFO  10:12:44 SaveClaim method invoked.
+INFO  10:12:50 ClaimStatus method invked.
+INFO  10:13:01 SubmitStatus mehod invoked with Memeber Id 0
+INFO  10:13:07 ViewBill method invoked!
+INFO  10:13:17 Logout method invoked.  logged out.
+INFO  10:13:17 Index method invoked.
+INFO  10:13:32 Login method invoked by the Username :Sumitha
+INFO  10:13:32 GetToken method invoked.
+INFO  10:13:32 Index method invoked.
+INFO  10:13:32 Sumitha logged in.
+INFO  10:13:41 SubmitClaim method invked.
+INFO  10:13:50 ViewBill method invoked!
+INFO  10:13:53 SubmitClaim method invked.
+INFO  10:15:00 Logout method invoked.  logged out.
+INFO  10:15:00 Index method invoked.
+INFO  10:15:20 Login method invoked by the Username :Saras
+INFO  10:15:20 GetToken method invoked.
+INFO  10:15:20 Index method invoked.
+INFO  10:15:20 Saras logged in.
+INFO  10:15:25 SubmitClaim method invked.
+INFO  10:15:51 SaveClaim method invoked.
+INFO  10:15:55 ClaimStatus method invked.
+INFO  10:16:03 SubmitStatus mehod invoked with Memeber Id 0
+INFO  10:16:06 ViewBill method invoked!
+INFO  10:16:14 Logout method invoked.  logged out.
+INFO  10:16:14 Index method invoked.
+INFO  05:16:23 Application started. Press Ctrl+C to shut down.
+INFO  05:16:23 Application started. Press Ctrl+C to shut down.
+INFO  05:16:23 Hosting environment: Development
+INFO  05:16:23 Hosting environment: Development
+INFO  05:16:23 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  05:16:23 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  05:16:24 Index method invoked.
+INFO  05:16:56 Login method invoked by the Username :Saras
+INFO  05:17:00 GetToken method invoked.
+INFO  05:17:50 Index method invoked.
+INFO  05:17:52 Saras logged in.
+INFO  05:17:58 SubmitClaim method invked.
+INFO  05:21:29 Index method invoked.
+INFO  05:21:38 Login method invoked by the Username :Saras
+INFO  05:21:38 GetToken method invoked.
+INFO  05:21:38 Index method invoked.
+INFO  05:21:38 Saras logged in.
+INFO  05:21:45 SubmitClaim method invked.
+INFO  05:23:20 Application started. Press Ctrl+C to shut down.
+INFO  05:23:20 Application started. Press Ctrl+C to shut down.
+INFO  05:23:20 Hosting environment: Development
+INFO  05:23:20 Hosting environment: Development
+INFO  05:23:20 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  05:23:20 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  05:23:20 Index method invoked.
+INFO  05:23:40 Login method invoked by the Username :Saras
+INFO  05:23:40 GetToken method invoked.
+INFO  05:23:40 Index method invoked.
+INFO  05:23:41 Saras logged in.
+INFO  05:23:42 SubmitClaim method invked.
+INFO  05:26:12 Application started. Press Ctrl+C to shut down.
+INFO  05:26:12 Application started. Press Ctrl+C to shut down.
+INFO  05:26:12 Hosting environment: Development
+INFO  05:26:12 Hosting environment: Development
+INFO  05:26:12 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  05:26:12 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  05:26:12 Index method invoked.
+INFO  05:26:24 Login method invoked by the Username :Saras
+INFO  05:26:24 GetToken method invoked.
+INFO  05:26:24 Index method invoked.
+INFO  05:26:24 Saras logged in.
+INFO  05:26:26 SubmitClaim method invked.
+INFO  05:28:11 Application started. Press Ctrl+C to shut down.
+INFO  05:28:11 Application started. Press Ctrl+C to shut down.
+INFO  05:28:11 Hosting environment: Development
+INFO  05:28:11 Hosting environment: Development
+INFO  05:28:11 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  05:28:11 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  05:28:11 Index method invoked.
+INFO  05:28:21 Login method invoked by the Username :Saras
+INFO  05:28:21 GetToken method invoked.
+INFO  05:28:22 Index method invoked.
+INFO  05:28:22 Saras logged in.
+INFO  05:28:23 SubmitClaim method invked.
+INFO  05:36:15 Application started. Press Ctrl+C to shut down.
+INFO  05:36:15 Application started. Press Ctrl+C to shut down.
+INFO  05:36:15 Hosting environment: Development
+INFO  05:36:15 Hosting environment: Development
+INFO  05:36:15 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  05:36:15 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  05:36:15 Index method invoked.
+INFO  05:36:25 Login method invoked by the Username :Saras
+INFO  05:36:25 GetToken method invoked.
+INFO  05:36:26 Index method invoked.
+INFO  05:36:26 Saras logged in.
+INFO  05:36:28 SubmitClaim method invked.
+INFO  05:39:25 Application started. Press Ctrl+C to shut down.
+INFO  05:39:25 Application started. Press Ctrl+C to shut down.
+INFO  05:39:25 Hosting environment: Development
+INFO  05:39:25 Hosting environment: Development
+INFO  05:39:25 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  05:39:25 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  05:39:25 Index method invoked.
+INFO  05:39:37 Login method invoked by the Username :Saras
+INFO  05:39:37 GetToken method invoked.
+INFO  05:39:37 Index method invoked.
+INFO  05:39:38 Saras logged in.
+INFO  05:39:40 SubmitClaim method invked.
+INFO  05:40:54 Application started. Press Ctrl+C to shut down.
+INFO  05:40:54 Application started. Press Ctrl+C to shut down.
+INFO  05:40:54 Hosting environment: Development
+INFO  05:40:54 Hosting environment: Development
+INFO  05:40:54 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  05:40:54 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  05:40:54 Index method invoked.
+INFO  05:41:04 Login method invoked by the Username :Saras
+INFO  05:41:04 GetToken method invoked.
+INFO  05:41:05 Index method invoked.
+INFO  05:41:05 Saras logged in.
+INFO  05:41:07 SubmitClaim method invked.
+INFO  05:43:15 Application started. Press Ctrl+C to shut down.
+INFO  05:43:15 Application started. Press Ctrl+C to shut down.
+INFO  05:43:15 Hosting environment: Development
+INFO  05:43:15 Hosting environment: Development
+INFO  05:43:15 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  05:43:15 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  05:43:15 Index method invoked.
+INFO  05:43:25 Login method invoked by the Username :Saras
+INFO  05:43:25 GetToken method invoked.
+INFO  05:43:26 Index method invoked.
+INFO  05:43:26 Saras logged in.
+INFO  05:43:28 SubmitClaim method invked.
+INFO  05:46:40 Application started. Press Ctrl+C to shut down.
+INFO  05:46:40 Application started. Press Ctrl+C to shut down.
+INFO  05:46:40 Hosting environment: Development
+INFO  05:46:40 Hosting environment: Development
+INFO  05:46:40 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  05:46:40 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  05:46:40 Index method invoked.
+INFO  05:46:49 Login method invoked by the Username :Saras
+INFO  05:46:49 GetToken method invoked.
+INFO  05:46:50 Index method invoked.
+INFO  05:46:50 Saras logged in.
+INFO  05:46:52 SubmitClaim method invked.
+INFO  05:51:07 Application started. Press Ctrl+C to shut down.
+INFO  05:51:08 Application started. Press Ctrl+C to shut down.
+INFO  05:51:08 Hosting environment: Development
+INFO  05:51:08 Hosting environment: Development
+INFO  05:51:08 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  05:51:08 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  05:51:08 Index method invoked.
+INFO  05:53:48 Login method invoked by the Username :Saras
+INFO  05:53:48 GetToken method invoked.
+INFO  05:53:48 Index method invoked.
+INFO  05:53:48 Saras logged in.
+INFO  05:53:50 SubmitClaim method invked.
+INFO  05:56:52 Application started. Press Ctrl+C to shut down.
+INFO  05:56:52 Application started. Press Ctrl+C to shut down.
+INFO  05:56:52 Hosting environment: Development
+INFO  05:56:52 Hosting environment: Development
+INFO  05:56:52 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  05:56:52 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  05:56:52 Index method invoked.
+INFO  05:59:25 Login method invoked by the Username :Saras
+INFO  05:59:25 GetToken method invoked.
+INFO  05:59:26 Index method invoked.
+INFO  05:59:26 Saras logged in.
+INFO  05:59:34 SubmitClaim method invked.
+INFO  06:02:26 Application started. Press Ctrl+C to shut down.
+INFO  06:02:26 Application started. Press Ctrl+C to shut down.
+INFO  06:02:26 Hosting environment: Development
+INFO  06:02:26 Hosting environment: Development
+INFO  06:02:26 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  06:02:26 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  06:02:27 Index method invoked.
+INFO  06:02:32 Index method invoked.
+INFO  06:02:46 Login method invoked by the Username :Saras
+INFO  06:02:46 GetToken method invoked.
+INFO  06:02:47 Index method invoked.
+INFO  06:02:47 Saras logged in.
+INFO  06:02:49 SubmitClaim method invked.
+INFO  06:03:43 SubmitClaim method invked.
+INFO  08:01:08 Application started. Press Ctrl+C to shut down.
+INFO  08:01:08 Application started. Press Ctrl+C to shut down.
+INFO  08:01:08 Hosting environment: Development
+INFO  08:01:08 Hosting environment: Development
+INFO  08:01:08 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  08:01:08 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  08:01:10 Index method invoked.
+INFO  08:06:28 Application started. Press Ctrl+C to shut down.
+INFO  08:06:28 Application started. Press Ctrl+C to shut down.
+INFO  08:06:28 Hosting environment: Development
+INFO  08:06:28 Hosting environment: Development
+INFO  08:06:28 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  08:06:28 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  08:06:28 Index method invoked.
+INFO  08:06:41 Login method invoked by the Username :Saras
+INFO  08:06:41 GetToken method invoked.
+INFO  08:06:44 Index method invoked.
+INFO  08:06:44 Saras logged in.
+INFO  08:06:54 SubmitClaim method invked.
+INFO  08:25:01 Application started. Press Ctrl+C to shut down.
+INFO  08:25:01 Application started. Press Ctrl+C to shut down.
+INFO  08:25:01 Hosting environment: Development
+INFO  08:25:01 Hosting environment: Development
+INFO  08:25:01 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  08:25:01 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  08:25:01 Index method invoked.
+INFO  08:25:18 Login method invoked by the Username :Saras
+INFO  08:25:18 GetToken method invoked.
+INFO  08:25:19 Index method invoked.
+INFO  08:25:19 Saras logged in.
+INFO  08:31:05 Application started. Press Ctrl+C to shut down.
+INFO  08:31:05 Application started. Press Ctrl+C to shut down.
+INFO  08:31:05 Hosting environment: Development
+INFO  08:31:05 Hosting environment: Development
+INFO  08:31:05 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  08:31:05 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  08:31:05 Index method invoked.
+INFO  08:33:48 Login method invoked by the Username :Saras
+INFO  08:33:48 GetToken method invoked.
+INFO  08:33:49 Index method invoked.
+INFO  08:33:49 Saras logged in.
+INFO  08:33:53 SubmitClaim method invked.
+INFO  09:01:54 Application started. Press Ctrl+C to shut down.
+INFO  09:01:54 Application started. Press Ctrl+C to shut down.
+INFO  09:01:54 Hosting environment: Development
+INFO  09:01:54 Hosting environment: Development
+INFO  09:01:54 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:01:54 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:01:55 Index method invoked.
+INFO  09:03:52 Login method invoked by the Username :Saras
+INFO  09:03:52 GetToken method invoked.
+INFO  09:03:54 Index method invoked.
+INFO  09:03:56 Saras logged in.
+INFO  09:05:14 SubmitClaim method invked.
+INFO  09:10:33 Application started. Press Ctrl+C to shut down.
+INFO  09:10:33 Application started. Press Ctrl+C to shut down.
+INFO  09:10:33 Hosting environment: Development
+INFO  09:10:33 Hosting environment: Development
+INFO  09:10:33 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:10:33 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:10:33 Index method invoked.
+INFO  09:11:18 Application started. Press Ctrl+C to shut down.
+INFO  09:11:18 Application started. Press Ctrl+C to shut down.
+INFO  09:11:18 Hosting environment: Development
+INFO  09:11:18 Hosting environment: Development
+INFO  09:11:18 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:11:18 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:11:18 Index method invoked.
+INFO  09:11:28 Login method invoked by the Username :Saras
+INFO  09:11:28 GetToken method invoked.
+INFO  09:11:29 Index method invoked.
+INFO  09:11:29 Saras logged in.
+INFO  09:17:35 Application started. Press Ctrl+C to shut down.
+INFO  09:17:35 Application started. Press Ctrl+C to shut down.
+INFO  09:17:35 Hosting environment: Development
+INFO  09:17:35 Hosting environment: Development
+INFO  09:17:35 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:17:35 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:17:36 Index method invoked.
+INFO  09:18:25 Application started. Press Ctrl+C to shut down.
+INFO  09:18:25 Application started. Press Ctrl+C to shut down.
+INFO  09:18:25 Hosting environment: Development
+INFO  09:18:25 Hosting environment: Development
+INFO  09:18:25 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:18:25 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:18:25 Index method invoked.
+INFO  09:21:03 Login method invoked by the Username :Saras
+INFO  09:21:03 GetToken method invoked.
+INFO  09:21:03 Index method invoked.
+INFO  09:21:03 Saras logged in.
+INFO  09:25:23 Application started. Press Ctrl+C to shut down.
+INFO  09:25:23 Application started. Press Ctrl+C to shut down.
+INFO  09:25:23 Hosting environment: Development
+INFO  09:25:23 Hosting environment: Development
+INFO  09:25:23 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:25:23 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:25:23 Index method invoked.
+INFO  09:25:36 Login method invoked by the Username :Saras
+INFO  09:25:36 GetToken method invoked.
+INFO  09:25:37 Index method invoked.
+INFO  09:25:37 Saras logged in.
+INFO  09:26:21 Application started. Press Ctrl+C to shut down.
+INFO  09:26:21 Application started. Press Ctrl+C to shut down.
+INFO  09:26:21 Hosting environment: Development
+INFO  09:26:21 Hosting environment: Development
+INFO  09:26:21 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:26:21 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:26:21 Index method invoked.
+INFO  09:26:31 Login method invoked by the Username :Saras
+INFO  09:26:31 GetToken method invoked.
+INFO  09:26:31 Index method invoked.
+INFO  09:26:32 Saras logged in.
+INFO  10:07:30 Application started. Press Ctrl+C to shut down.
+INFO  10:07:30 Application started. Press Ctrl+C to shut down.
+INFO  10:07:30 Hosting environment: Development
+INFO  10:07:30 Hosting environment: Development
+INFO  10:07:30 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:07:30 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:07:30 Index method invoked.
+INFO  10:07:57 Login method invoked by the Username :Saras
+INFO  10:07:57 GetToken method invoked.
+INFO  10:08:05 Index method invoked.
+INFO  10:08:06 Saras logged in.
+INFO  10:12:53 Application started. Press Ctrl+C to shut down.
+INFO  10:12:53 Application started. Press Ctrl+C to shut down.
+INFO  10:12:53 Hosting environment: Development
+INFO  10:12:53 Hosting environment: Development
+INFO  10:12:53 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:12:53 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:12:53 Index method invoked.
+INFO  10:25:37 Login method invoked by the Username :Saras
+INFO  10:25:37 GetToken method invoked.
+INFO  10:25:38 Index method invoked.
+INFO  10:25:38 Saras logged in.
+INFO  10:31:58 Application started. Press Ctrl+C to shut down.
+INFO  10:31:58 Application started. Press Ctrl+C to shut down.
+INFO  10:31:58 Hosting environment: Development
+INFO  10:31:58 Hosting environment: Development
+INFO  10:31:58 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:31:58 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:31:58 Index method invoked.
+INFO  10:32:11 Login method invoked by the Username :Saras
+INFO  10:32:11 GetToken method invoked.
+INFO  10:32:12 Index method invoked.
+INFO  10:32:12 Saras logged in.
+INFO  10:34:48 Application started. Press Ctrl+C to shut down.
+INFO  10:34:48 Application started. Press Ctrl+C to shut down.
+INFO  10:34:48 Hosting environment: Development
+INFO  10:34:48 Hosting environment: Development
+INFO  10:34:48 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:34:48 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:34:48 Index method invoked.
+INFO  10:35:16 Login method invoked by the Username :Saras
+INFO  10:35:16 GetToken method invoked.
+INFO  10:35:17 Index method invoked.
+INFO  10:35:17 Saras logged in.
+INFO  10:35:35 SubmitClaim method invked.
+INFO  10:38:06 Application started. Press Ctrl+C to shut down.
+INFO  10:38:06 Application started. Press Ctrl+C to shut down.
+INFO  10:38:06 Hosting environment: Development
+INFO  10:38:06 Hosting environment: Development
+INFO  10:38:06 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:38:06 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:38:06 Index method invoked.
+INFO  10:39:34 Login method invoked by the Username :Saras
+INFO  10:39:34 GetToken method invoked.
+INFO  10:39:35 Index method invoked.
+INFO  10:39:35 Saras logged in.
+INFO  10:42:15 Application started. Press Ctrl+C to shut down.
+INFO  10:42:15 Application started. Press Ctrl+C to shut down.
+INFO  10:42:15 Hosting environment: Development
+INFO  10:42:15 Hosting environment: Development
+INFO  10:42:15 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:42:15 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:42:16 Index method invoked.
+INFO  10:43:56 Application started. Press Ctrl+C to shut down.
+INFO  10:43:56 Application started. Press Ctrl+C to shut down.
+INFO  10:43:56 Hosting environment: Development
+INFO  10:43:56 Hosting environment: Development
+INFO  10:43:56 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:43:56 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:43:56 Index method invoked.
+INFO  10:44:07 Login method invoked by the Username :Saras
+INFO  10:44:08 GetToken method invoked.
+INFO  10:44:08 Index method invoked.
+INFO  10:44:08 Saras logged in.
+INFO  10:46:44 Application started. Press Ctrl+C to shut down.
+INFO  10:46:44 Application started. Press Ctrl+C to shut down.
+INFO  10:46:44 Hosting environment: Development
+INFO  10:46:44 Hosting environment: Development
+INFO  10:46:44 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:46:44 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:46:44 Index method invoked.
+INFO  10:47:29 Application started. Press Ctrl+C to shut down.
+INFO  10:47:29 Application started. Press Ctrl+C to shut down.
+INFO  10:47:29 Hosting environment: Development
+INFO  10:47:29 Hosting environment: Development
+INFO  10:47:29 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:47:29 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:47:30 Index method invoked.
+INFO  10:49:17 Index method invoked.
+INFO  10:49:28 Login method invoked by the Username :Saras
+INFO  10:49:28 GetToken method invoked.
+INFO  10:49:29 Index method invoked.
+INFO  10:49:29 Saras logged in.
+INFO  10:49:43 SubmitClaim method invked.
+INFO  10:49:57 ClaimStatus method invked.
+ERROR 10:50:01 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AspNetCore.Views_Home_ViewBill.ExecuteAsync() in C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal\Views\Home\ViewBill.cshtml:line 8
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 10:50:01 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AspNetCore.Views_Home_ViewBill.ExecuteAsync() in C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal\Views\Home\ViewBill.cshtml:line 8
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  10:50:06 ClaimStatus method invked.
+INFO  10:50:08 SubmitClaim method invked.
+INFO  10:50:31 Index method invoked.
+INFO  10:50:31 Saras logged in.
+INFO  10:23:03 Application started. Press Ctrl+C to shut down.
+INFO  10:23:03 Application started. Press Ctrl+C to shut down.
+INFO  10:23:03 Hosting environment: Development
+INFO  10:23:03 Hosting environment: Development
+INFO  10:23:03 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:23:03 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:23:03 Index method invoked.
+INFO  10:36:21 Login method invoked by the Username :Saras
+INFO  10:36:22 GetToken method invoked.
+INFO  10:36:29 Index method invoked.
+INFO  10:36:30 Saras logged in.
+INFO  10:37:58 SubmitClaim method invked.
+INFO  10:42:19 Application started. Press Ctrl+C to shut down.
+INFO  10:42:19 Application started. Press Ctrl+C to shut down.
+INFO  10:42:19 Hosting environment: Development
+INFO  10:42:19 Hosting environment: Development
+INFO  10:42:19 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:42:19 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:42:20 Index method invoked.
+INFO  10:42:43 Login method invoked by the Username :Saras
+INFO  10:42:43 GetToken method invoked.
+INFO  10:42:43 Index method invoked.
+INFO  10:42:43 Saras logged in.
+INFO  10:43:05 SubmitClaim method invked.
+INFO  10:45:58 Application started. Press Ctrl+C to shut down.
+INFO  10:45:58 Application started. Press Ctrl+C to shut down.
+INFO  10:45:58 Hosting environment: Development
+INFO  10:45:58 Hosting environment: Development
+INFO  10:45:58 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:45:58 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:45:58 Index method invoked.
+INFO  10:46:23 Login method invoked by the Username :Saras
+INFO  10:46:23 GetToken method invoked.
+INFO  10:46:24 Index method invoked.
+INFO  10:46:24 Saras logged in.
+INFO  10:46:26 SubmitClaim method invked.
+INFO  10:54:17 Index method invoked.
+INFO  10:54:50 Application started. Press Ctrl+C to shut down.
+INFO  10:54:50 Application started. Press Ctrl+C to shut down.
+INFO  10:54:50 Hosting environment: Development
+INFO  10:54:50 Hosting environment: Development
+INFO  10:54:50 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:54:50 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:54:50 Index method invoked.
+INFO  10:55:09 Login method invoked by the Username :Saras
+INFO  10:55:09 GetToken method invoked.
+INFO  10:55:09 Index method invoked.
+INFO  10:55:09 Saras logged in.
+INFO  10:55:12 SubmitClaim method invked.
+INFO  10:55:50 Application started. Press Ctrl+C to shut down.
+INFO  10:55:51 Application started. Press Ctrl+C to shut down.
+INFO  10:55:51 Hosting environment: Development
+INFO  10:55:51 Hosting environment: Development
+INFO  10:55:51 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:55:51 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:55:51 Index method invoked.
+INFO  10:56:01 Login method invoked by the Username :Saras
+INFO  10:56:01 GetToken method invoked.
+INFO  10:56:02 Index method invoked.
+INFO  10:56:02 Saras logged in.
+INFO  10:56:04 SubmitClaim method invked.
+INFO  10:58:29 Application started. Press Ctrl+C to shut down.
+INFO  10:58:29 Application started. Press Ctrl+C to shut down.
+INFO  10:58:29 Hosting environment: Development
+INFO  10:58:29 Hosting environment: Development
+INFO  10:58:29 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:58:29 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:58:29 Index method invoked.
+INFO  10:58:37 Login method invoked by the Username :Saras
+INFO  10:58:37 GetToken method invoked.
+INFO  10:58:38 Index method invoked.
+INFO  10:58:38 Saras logged in.
+INFO  10:58:40 SubmitClaim method invked.
+INFO  11:00:02 Application started. Press Ctrl+C to shut down.
+INFO  11:00:02 Application started. Press Ctrl+C to shut down.
+INFO  11:00:02 Hosting environment: Development
+INFO  11:00:02 Hosting environment: Development
+INFO  11:00:02 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  11:00:02 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  11:00:02 Index method invoked.
+INFO  11:00:13 Login method invoked by the Username :Saras
+INFO  11:00:13 GetToken method invoked.
+INFO  11:00:13 Index method invoked.
+INFO  11:00:14 Saras logged in.
+INFO  11:00:16 SubmitClaim method invked.
+INFO  11:01:46 Application started. Press Ctrl+C to shut down.
+INFO  11:01:46 Application started. Press Ctrl+C to shut down.
+INFO  11:01:46 Hosting environment: Development
+INFO  11:01:46 Hosting environment: Development
+INFO  11:01:46 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  11:01:46 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  11:01:46 Index method invoked.
+INFO  11:01:55 Login method invoked by the Username :Saras
+INFO  11:01:55 GetToken method invoked.
+INFO  11:01:56 Index method invoked.
+INFO  11:01:56 Saras logged in.
+INFO  11:01:57 SubmitClaim method invked.
+INFO  11:03:07 Application started. Press Ctrl+C to shut down.
+INFO  11:03:07 Application started. Press Ctrl+C to shut down.
+INFO  11:03:07 Hosting environment: Development
+INFO  11:03:07 Hosting environment: Development
+INFO  11:03:07 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  11:03:07 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  11:03:07 Index method invoked.
+INFO  11:03:15 Login method invoked by the Username :Saras
+INFO  11:03:15 GetToken method invoked.
+INFO  11:03:15 Index method invoked.
+INFO  11:03:16 Saras logged in.
+INFO  11:03:17 SubmitClaim method invked.
+INFO  11:03:51 Application started. Press Ctrl+C to shut down.
+INFO  11:03:51 Application started. Press Ctrl+C to shut down.
+INFO  11:03:51 Hosting environment: Development
+INFO  11:03:51 Hosting environment: Development
+INFO  11:03:51 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  11:03:51 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  11:03:52 Index method invoked.
+INFO  11:04:00 Login method invoked by the Username :Saras
+INFO  11:04:00 GetToken method invoked.
+INFO  11:04:00 Index method invoked.
+INFO  11:04:00 Saras logged in.
+INFO  11:04:02 SubmitClaim method invked.
+INFO  11:06:57 Application started. Press Ctrl+C to shut down.
+INFO  11:06:57 Application started. Press Ctrl+C to shut down.
+INFO  11:06:57 Hosting environment: Development
+INFO  11:06:57 Hosting environment: Development
+INFO  11:06:57 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  11:06:57 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  11:06:58 Index method invoked.
+INFO  11:07:17 Login method invoked by the Username :Saras
+INFO  11:07:17 GetToken method invoked.
+INFO  11:07:17 Index method invoked.
+INFO  11:07:18 Saras logged in.
+INFO  11:07:20 SubmitClaim method invked.
+INFO  11:08:14 Application started. Press Ctrl+C to shut down.
+INFO  11:08:14 Application started. Press Ctrl+C to shut down.
+INFO  11:08:14 Hosting environment: Development
+INFO  11:08:14 Hosting environment: Development
+INFO  11:08:14 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  11:08:14 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  11:08:14 Index method invoked.
+INFO  11:09:24 Application started. Press Ctrl+C to shut down.
+INFO  11:09:24 Application started. Press Ctrl+C to shut down.
+INFO  11:09:24 Hosting environment: Development
+INFO  11:09:24 Hosting environment: Development
+INFO  11:09:24 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  11:09:24 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  11:09:24 Index method invoked.
+INFO  11:09:32 Login method invoked by the Username :Saras
+INFO  11:09:32 GetToken method invoked.
+INFO  11:09:33 Index method invoked.
+INFO  11:09:33 Saras logged in.
+INFO  11:09:34 SubmitClaim method invked.
+INFO  11:09:58 Application started. Press Ctrl+C to shut down.
+INFO  11:09:58 Application started. Press Ctrl+C to shut down.
+INFO  11:09:58 Hosting environment: Development
+INFO  11:09:58 Hosting environment: Development
+INFO  11:09:58 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  11:09:58 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  11:09:59 Index method invoked.
+INFO  11:11:04 Application started. Press Ctrl+C to shut down.
+INFO  11:11:04 Application started. Press Ctrl+C to shut down.
+INFO  11:11:04 Hosting environment: Development
+INFO  11:11:04 Hosting environment: Development
+INFO  11:11:04 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  11:11:04 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  11:11:04 Index method invoked.
+INFO  11:11:16 Login method invoked by the Username :Saras
+INFO  11:11:16 GetToken method invoked.
+INFO  11:11:17 Index method invoked.
+INFO  11:11:17 Saras logged in.
+INFO  11:11:19 SubmitClaim method invked.
+INFO  11:21:59 Index method invoked.
+INFO  11:30:31 Application started. Press Ctrl+C to shut down.
+INFO  11:30:31 Application started. Press Ctrl+C to shut down.
+INFO  11:30:31 Hosting environment: Development
+INFO  11:30:31 Hosting environment: Development
+INFO  11:30:31 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  11:30:31 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  11:30:31 Index method invoked.
+INFO  11:31:05 Login method invoked by the Username :Saras
+INFO  11:31:05 GetToken method invoked.
+INFO  11:31:06 Index method invoked.
+INFO  11:31:06 Saras logged in.
+INFO  11:31:13 SubmitClaim method invked.
+INFO  11:32:10 Application started. Press Ctrl+C to shut down.
+INFO  11:32:10 Application started. Press Ctrl+C to shut down.
+INFO  11:32:10 Hosting environment: Development
+INFO  11:32:10 Hosting environment: Development
+INFO  11:32:10 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  11:32:10 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  11:32:10 Index method invoked.
+INFO  11:40:23 Application started. Press Ctrl+C to shut down.
+INFO  11:40:23 Application started. Press Ctrl+C to shut down.
+INFO  11:40:23 Hosting environment: Development
+INFO  11:40:23 Hosting environment: Development
+INFO  11:40:23 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  11:40:23 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  11:40:23 Index method invoked.
+INFO  11:40:29 Application started. Press Ctrl+C to shut down.
+INFO  11:40:29 Application started. Press Ctrl+C to shut down.
+INFO  11:40:29 Hosting environment: Development
+INFO  11:40:29 Hosting environment: Development
+INFO  11:40:29 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  11:40:29 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  11:40:29 Index method invoked.
+INFO  11:40:40 Login method invoked by the Username :Saras
+INFO  11:40:40 GetToken method invoked.
+INFO  11:40:41 Index method invoked.
+INFO  11:40:42 Saras logged in.
+INFO  11:40:43 SubmitClaim method invked.
+INFO  12:02:04 Application started. Press Ctrl+C to shut down.
+INFO  12:02:04 Application started. Press Ctrl+C to shut down.
+INFO  12:02:04 Hosting environment: Development
+INFO  12:02:04 Hosting environment: Development
+INFO  12:02:04 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:02:04 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:02:04 Index method invoked.
+INFO  12:02:16 Login method invoked by the Username :Saras
+INFO  12:02:16 GetToken method invoked.
+INFO  12:02:16 Index method invoked.
+INFO  12:02:16 Saras logged in.
+INFO  12:02:18 SubmitClaim method invked.
+INFO  12:03:17 Application started. Press Ctrl+C to shut down.
+INFO  12:03:17 Application started. Press Ctrl+C to shut down.
+INFO  12:03:17 Hosting environment: Development
+INFO  12:03:17 Hosting environment: Development
+INFO  12:03:17 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:03:17 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:03:17 Index method invoked.
+INFO  12:03:34 Login method invoked by the Username :Saras
+INFO  12:03:34 GetToken method invoked.
+INFO  12:03:34 Index method invoked.
+INFO  12:03:34 Saras logged in.
+INFO  12:03:36 SubmitClaim method invked.
+INFO  12:07:58 Application started. Press Ctrl+C to shut down.
+INFO  12:07:58 Application started. Press Ctrl+C to shut down.
+INFO  12:07:58 Hosting environment: Development
+INFO  12:07:58 Hosting environment: Development
+INFO  12:07:58 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:07:58 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:07:58 Index method invoked.
+INFO  12:08:31 Application started. Press Ctrl+C to shut down.
+INFO  12:08:31 Application started. Press Ctrl+C to shut down.
+INFO  12:08:31 Hosting environment: Development
+INFO  12:08:31 Hosting environment: Development
+INFO  12:08:31 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:08:31 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:08:31 Index method invoked.
+INFO  12:08:40 Login method invoked by the Username :Saras
+INFO  12:08:40 GetToken method invoked.
+INFO  12:08:41 Index method invoked.
+INFO  12:08:41 Saras logged in.
+INFO  12:08:43 SubmitClaim method invked.
+INFO  12:12:22 Application started. Press Ctrl+C to shut down.
+INFO  12:12:22 Application started. Press Ctrl+C to shut down.
+INFO  12:12:22 Hosting environment: Development
+INFO  12:12:22 Hosting environment: Development
+INFO  12:12:22 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:12:22 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:12:22 Index method invoked.
+INFO  12:12:33 Login method invoked by the Username :Saras
+INFO  12:12:33 GetToken method invoked.
+INFO  12:12:34 Index method invoked.
+INFO  12:12:34 Saras logged in.
+INFO  12:12:36 SubmitClaim method invked.
+INFO  12:15:04 Application started. Press Ctrl+C to shut down.
+INFO  12:15:04 Application started. Press Ctrl+C to shut down.
+INFO  12:15:04 Hosting environment: Development
+INFO  12:15:04 Hosting environment: Development
+INFO  12:15:04 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:15:04 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:15:04 Index method invoked.
+INFO  12:16:01 Application started. Press Ctrl+C to shut down.
+INFO  12:16:01 Application started. Press Ctrl+C to shut down.
+INFO  12:16:01 Hosting environment: Development
+INFO  12:16:01 Hosting environment: Development
+INFO  12:16:01 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:16:01 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:16:01 Index method invoked.
+INFO  12:16:12 Login method invoked by the Username :Saras
+INFO  12:16:12 GetToken method invoked.
+INFO  12:16:13 Index method invoked.
+INFO  12:16:13 Saras logged in.
+INFO  12:16:17 SubmitClaim method invked.
+INFO  12:18:26 Application started. Press Ctrl+C to shut down.
+INFO  12:18:26 Application started. Press Ctrl+C to shut down.
+INFO  12:18:26 Hosting environment: Development
+INFO  12:18:26 Hosting environment: Development
+INFO  12:18:26 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:18:26 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:18:27 Index method invoked.
+INFO  12:18:34 Login method invoked by the Username :Saras
+INFO  12:18:34 GetToken method invoked.
+INFO  12:18:35 Index method invoked.
+INFO  12:18:35 Saras logged in.
+INFO  12:18:37 SubmitClaim method invked.
+INFO  12:20:14 Application started. Press Ctrl+C to shut down.
+INFO  12:20:14 Application started. Press Ctrl+C to shut down.
+INFO  12:20:14 Hosting environment: Development
+INFO  12:20:14 Hosting environment: Development
+INFO  12:20:14 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:20:14 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:20:15 Index method invoked.
+INFO  12:20:23 Login method invoked by the Username :Saras
+INFO  12:20:23 GetToken method invoked.
+INFO  12:20:24 Index method invoked.
+INFO  12:20:24 Saras logged in.
+INFO  12:20:26 SubmitClaim method invked.
+INFO  12:23:16 Application started. Press Ctrl+C to shut down.
+INFO  12:23:16 Application started. Press Ctrl+C to shut down.
+INFO  12:23:16 Hosting environment: Development
+INFO  12:23:16 Hosting environment: Development
+INFO  12:23:16 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:23:16 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:23:16 Index method invoked.
+INFO  12:23:25 Login method invoked by the Username :Saras
+INFO  12:23:25 GetToken method invoked.
+INFO  12:23:26 Index method invoked.
+INFO  12:23:26 Saras logged in.
+INFO  12:23:28 SubmitClaim method invked.
+INFO  12:24:16 Application started. Press Ctrl+C to shut down.
+INFO  12:24:16 Application started. Press Ctrl+C to shut down.
+INFO  12:24:16 Hosting environment: Development
+INFO  12:24:16 Hosting environment: Development
+INFO  12:24:16 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:24:16 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:24:16 Index method invoked.
+INFO  12:24:30 Application started. Press Ctrl+C to shut down.
+INFO  12:24:30 Application started. Press Ctrl+C to shut down.
+INFO  12:24:30 Hosting environment: Development
+INFO  12:24:30 Hosting environment: Development
+INFO  12:24:30 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:24:30 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:24:30 Index method invoked.
+INFO  12:25:33 Application started. Press Ctrl+C to shut down.
+INFO  12:25:33 Application started. Press Ctrl+C to shut down.
+INFO  12:25:33 Hosting environment: Development
+INFO  12:25:33 Hosting environment: Development
+INFO  12:25:33 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:25:33 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:25:33 Index method invoked.
+INFO  12:25:41 Login method invoked by the Username :Saras
+INFO  12:25:41 GetToken method invoked.
+INFO  12:25:41 Index method invoked.
+INFO  12:25:41 Saras logged in.
+INFO  12:25:46 SubmitClaim method invked.
+INFO  12:26:43 Application started. Press Ctrl+C to shut down.
+INFO  12:26:43 Application started. Press Ctrl+C to shut down.
+INFO  12:26:43 Hosting environment: Development
+INFO  12:26:43 Hosting environment: Development
+INFO  12:26:43 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:26:43 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:26:44 Index method invoked.
+INFO  12:26:53 Login method invoked by the Username :Saras
+INFO  12:26:53 GetToken method invoked.
+INFO  12:26:54 Index method invoked.
+INFO  12:26:54 Saras logged in.
+INFO  12:26:56 SubmitClaim method invked.
+INFO  12:27:35 Application started. Press Ctrl+C to shut down.
+INFO  12:27:35 Application started. Press Ctrl+C to shut down.
+INFO  12:27:35 Hosting environment: Development
+INFO  12:27:35 Hosting environment: Development
+INFO  12:27:35 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:27:35 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:27:36 Index method invoked.
+INFO  12:27:44 Login method invoked by the Username :Saras
+INFO  12:27:44 GetToken method invoked.
+INFO  12:27:45 Index method invoked.
+INFO  12:27:45 Saras logged in.
+INFO  12:27:47 SubmitClaim method invked.
+INFO  12:28:32 Application started. Press Ctrl+C to shut down.
+INFO  12:28:32 Application started. Press Ctrl+C to shut down.
+INFO  12:28:32 Hosting environment: Development
+INFO  12:28:32 Hosting environment: Development
+INFO  12:28:32 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:28:32 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  12:28:32 Index method invoked.
+INFO  12:28:43 Login method invoked by the Username :Saras
+INFO  12:28:43 GetToken method invoked.
+INFO  12:28:44 Index method invoked.
+INFO  12:28:44 Saras logged in.
+INFO  12:28:47 SubmitClaim method invked.
+INFO  12:29:14 ClaimStatus method invked.
+INFO  12:29:15 SubmitClaim method invked.
+INFO  12:57:49 Index method invoked.
+INFO  12:57:58 Login method invoked by the Username :Saras
+INFO  12:57:58 GetToken method invoked.
+INFO  12:57:59 Index method invoked.
+INFO  12:57:59 Saras logged in.
+INFO  12:58:01 SubmitClaim method invked.
+INFO  01:04:17 Index method invoked.
+INFO  01:04:22 Index method invoked.
+INFO  01:04:27 Index method invoked.
+INFO  01:04:32 Index method invoked.
+INFO  01:04:44 Login method invoked by the Username :Saras
+INFO  01:04:44 GetToken method invoked.
+INFO  01:04:45 Index method invoked.
+INFO  01:04:45 Saras logged in.
+INFO  01:04:47 SubmitClaim method invked.
+INFO  01:05:22 SubmitClaim method invked.
+INFO  01:06:11 Application started. Press Ctrl+C to shut down.
+INFO  01:06:11 Application started. Press Ctrl+C to shut down.
+INFO  01:06:11 Hosting environment: Development
+INFO  01:06:11 Hosting environment: Development
+INFO  01:06:11 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  01:06:11 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  01:06:11 Index method invoked.
+INFO  01:06:27 Login method invoked by the Username :Saras
+INFO  01:06:27 GetToken method invoked.
+INFO  01:06:28 Index method invoked.
+INFO  01:06:28 Saras logged in.
+INFO  01:06:30 SubmitClaim method invked.
+INFO  01:08:09 SubmitClaim method invked.
+INFO  01:08:32 Application started. Press Ctrl+C to shut down.
+INFO  01:08:32 Application started. Press Ctrl+C to shut down.
+INFO  01:08:32 Hosting environment: Development
+INFO  01:08:32 Hosting environment: Development
+INFO  01:08:32 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  01:08:32 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  01:08:32 Index method invoked.
+INFO  01:08:46 Login method invoked by the Username :Saras
+INFO  01:08:46 GetToken method invoked.
+INFO  01:08:46 Index method invoked.
+INFO  01:08:46 Saras logged in.
+INFO  01:08:52 SubmitClaim method invked.
+INFO  01:09:56 Application started. Press Ctrl+C to shut down.
+INFO  01:09:56 Application started. Press Ctrl+C to shut down.
+INFO  01:09:56 Hosting environment: Development
+INFO  01:09:56 Hosting environment: Development
+INFO  01:09:56 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  01:09:56 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  01:09:56 Index method invoked.
+INFO  01:10:07 Login method invoked by the Username :Saras
+INFO  01:10:07 GetToken method invoked.
+INFO  01:10:08 Index method invoked.
+INFO  01:10:08 Saras logged in.
+INFO  01:10:10 SubmitClaim method invked.
+INFO  01:41:38 Application started. Press Ctrl+C to shut down.
+INFO  01:41:38 Application started. Press Ctrl+C to shut down.
+INFO  01:41:38 Hosting environment: Development
+INFO  01:41:38 Hosting environment: Development
+INFO  01:41:38 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  01:41:38 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  01:41:57 Application started. Press Ctrl+C to shut down.
+INFO  01:41:57 Application started. Press Ctrl+C to shut down.
+INFO  01:41:57 Hosting environment: Development
+INFO  01:41:57 Hosting environment: Development
+INFO  01:41:57 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  01:41:57 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  01:41:57 Index method invoked.
+INFO  01:42:49 Login method invoked by the Username :Saras
+INFO  01:42:49 GetToken method invoked.
+INFO  01:42:50 Index method invoked.
+INFO  01:42:50 Saras logged in.
+INFO  01:42:52 SubmitClaim method invked.
+INFO  01:52:15 Application started. Press Ctrl+C to shut down.
+INFO  01:52:15 Application started. Press Ctrl+C to shut down.
+INFO  01:52:15 Hosting environment: Development
+INFO  01:52:15 Hosting environment: Development
+INFO  01:52:15 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  01:52:15 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  01:52:16 Index method invoked.
+INFO  01:52:26 Login method invoked by the Username :Saras
+INFO  01:52:26 GetToken method invoked.
+INFO  01:52:27 Index method invoked.
+INFO  01:52:27 Saras logged in.
+INFO  01:52:29 SubmitClaim method invked.
+INFO  01:57:35 Application started. Press Ctrl+C to shut down.
+INFO  01:57:36 Application started. Press Ctrl+C to shut down.
+INFO  01:57:36 Hosting environment: Development
+INFO  01:57:36 Hosting environment: Development
+INFO  01:57:36 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  01:57:36 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  01:57:36 Index method invoked.
+INFO  01:57:46 Login method invoked by the Username :Saras
+INFO  01:57:46 GetToken method invoked.
+INFO  01:57:46 Index method invoked.
+INFO  01:57:46 Saras logged in.
+INFO  01:57:49 SubmitClaim method invked.
+INFO  01:59:02 ClaimStatus method invked.
+INFO  01:59:03 SubmitClaim method invked.
+INFO  02:00:19 Application started. Press Ctrl+C to shut down.
+INFO  02:00:19 Application started. Press Ctrl+C to shut down.
+INFO  02:00:19 Hosting environment: Development
+INFO  02:00:19 Hosting environment: Development
+INFO  02:00:19 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:00:19 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:00:20 Index method invoked.
+INFO  02:01:10 Login method invoked by the Username :Saras
+INFO  02:01:10 GetToken method invoked.
+INFO  02:01:11 Index method invoked.
+INFO  02:01:11 Saras logged in.
+INFO  02:01:14 SubmitClaim method invked.
+INFO  02:01:50 SaveClaim method invoked.
+INFO  02:02:05 SubmitClaim method invked.
+INFO  02:07:09 Application started. Press Ctrl+C to shut down.
+INFO  02:07:09 Application started. Press Ctrl+C to shut down.
+INFO  02:07:09 Hosting environment: Development
+INFO  02:07:09 Hosting environment: Development
+INFO  02:07:09 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:07:09 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:07:09 Index method invoked.
+INFO  02:07:19 Login method invoked by the Username :Saras
+INFO  02:07:19 GetToken method invoked.
+INFO  02:07:19 Index method invoked.
+INFO  02:07:19 Saras logged in.
+INFO  02:07:21 SubmitClaim method invked.
+INFO  02:08:21 Application started. Press Ctrl+C to shut down.
+INFO  02:08:21 Application started. Press Ctrl+C to shut down.
+INFO  02:08:21 Hosting environment: Development
+INFO  02:08:21 Hosting environment: Development
+INFO  02:08:21 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:08:21 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:08:22 Index method invoked.
+INFO  02:08:35 Login method invoked by the Username :Saras
+INFO  02:08:35 GetToken method invoked.
+INFO  02:08:35 Index method invoked.
+INFO  02:08:35 Saras logged in.
+INFO  02:08:37 SubmitClaim method invked.
+INFO  02:10:06 Application started. Press Ctrl+C to shut down.
+INFO  02:10:06 Application started. Press Ctrl+C to shut down.
+INFO  02:10:06 Hosting environment: Development
+INFO  02:10:06 Hosting environment: Development
+INFO  02:10:06 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:10:06 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:10:06 Index method invoked.
+INFO  02:14:41 Index method invoked.
+INFO  02:14:48 Index method invoked.
+INFO  02:16:25 Index method invoked.
+INFO  02:16:35 Login method invoked by the Username :Saras
+INFO  02:16:35 GetToken method invoked.
+INFO  02:16:35 Index method invoked.
+INFO  02:16:35 Saras logged in.
+INFO  02:16:37 SubmitClaim method invked.
+INFO  02:17:46 SubmitClaim method invked.
+INFO  02:18:28 SubmitClaim method invked.
+INFO  02:18:34 Application started. Press Ctrl+C to shut down.
+INFO  02:18:34 Application started. Press Ctrl+C to shut down.
+INFO  02:18:34 Hosting environment: Development
+INFO  02:18:34 Hosting environment: Development
+INFO  02:18:34 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:18:34 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:18:34 Index method invoked.
+INFO  02:18:49 Login method invoked by the Username :Saras
+INFO  02:18:49 GetToken method invoked.
+INFO  02:18:50 Index method invoked.
+INFO  02:18:50 Saras logged in.
+INFO  02:18:52 SubmitClaim method invked.
+INFO  02:29:59 Index method invoked.
+INFO  02:30:15 Application started. Press Ctrl+C to shut down.
+INFO  02:30:15 Application started. Press Ctrl+C to shut down.
+INFO  02:30:15 Hosting environment: Development
+INFO  02:30:15 Hosting environment: Development
+INFO  02:30:15 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:30:15 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:30:15 Index method invoked.
+INFO  02:30:24 Login method invoked by the Username :Saras
+INFO  02:30:24 GetToken method invoked.
+INFO  02:30:25 Index method invoked.
+INFO  02:30:25 Saras logged in.
+INFO  02:35:21 Index method invoked.
+INFO  02:37:22 Application started. Press Ctrl+C to shut down.
+INFO  02:37:22 Application started. Press Ctrl+C to shut down.
+INFO  02:37:22 Hosting environment: Development
+INFO  02:37:22 Hosting environment: Development
+INFO  02:37:22 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:37:22 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:37:22 Index method invoked.
+INFO  02:38:07 Login method invoked by the Username :Saras
+INFO  02:38:07 GetToken method invoked.
+INFO  02:38:07 Index method invoked.
+INFO  02:38:07 Saras logged in.
+INFO  02:38:09 SubmitClaim method invked.
+INFO  02:38:42 ClaimStatus method invked.
+INFO  02:38:43 SubmitClaim method invked.
+INFO  02:39:41 Application started. Press Ctrl+C to shut down.
+INFO  02:39:41 Application started. Press Ctrl+C to shut down.
+INFO  02:39:41 Hosting environment: Development
+INFO  02:39:41 Hosting environment: Development
+INFO  02:39:41 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:39:41 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:39:42 Index method invoked.
+INFO  02:41:18 Index method invoked.
+INFO  02:41:35 Login method invoked by the Username :Saras
+INFO  02:41:35 GetToken method invoked.
+INFO  02:41:35 Index method invoked.
+INFO  02:41:35 Saras logged in.
+INFO  02:41:38 SubmitClaim method invked.
+INFO  02:43:21 SubmitClaim method invked.
+INFO  02:45:13 SubmitClaim method invked.
+INFO  02:47:19 Application started. Press Ctrl+C to shut down.
+INFO  02:47:19 Application started. Press Ctrl+C to shut down.
+INFO  02:47:19 Hosting environment: Development
+INFO  02:47:19 Hosting environment: Development
+INFO  02:47:19 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:47:19 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:47:19 Index method invoked.
+INFO  02:47:29 Login method invoked by the Username :Saras
+INFO  02:47:29 GetToken method invoked.
+INFO  02:47:29 Index method invoked.
+INFO  02:47:30 Saras logged in.
+INFO  02:47:31 SubmitClaim method invked.
+INFO  02:48:52 Application started. Press Ctrl+C to shut down.
+INFO  02:48:52 Application started. Press Ctrl+C to shut down.
+INFO  02:48:52 Hosting environment: Development
+INFO  02:48:52 Hosting environment: Development
+INFO  02:48:52 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:48:52 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:48:53 Index method invoked.
+INFO  02:49:02 Login method invoked by the Username :Saras
+INFO  02:49:02 GetToken method invoked.
+INFO  02:49:03 Index method invoked.
+INFO  02:49:03 Saras logged in.
+INFO  02:49:04 SubmitClaim method invked.
+INFO  02:49:41 Application started. Press Ctrl+C to shut down.
+INFO  02:49:41 Application started. Press Ctrl+C to shut down.
+INFO  02:49:41 Hosting environment: Development
+INFO  02:49:41 Hosting environment: Development
+INFO  02:49:41 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:49:41 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:49:41 Index method invoked.
+INFO  02:49:50 Application started. Press Ctrl+C to shut down.
+INFO  02:49:50 Application started. Press Ctrl+C to shut down.
+INFO  02:49:50 Hosting environment: Development
+INFO  02:49:50 Hosting environment: Development
+INFO  02:49:50 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:49:50 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:49:50 Index method invoked.
+INFO  02:50:13 Login method invoked by the Username :Saras
+INFO  02:50:13 GetToken method invoked.
+INFO  02:50:24 Login method invoked by the Username :Saras
+INFO  02:50:24 GetToken method invoked.
+INFO  02:50:56 Index method invoked.
+INFO  02:51:06 Login method invoked by the Username :Saras
+INFO  02:51:06 GetToken method invoked.
+INFO  02:51:06 Index method invoked.
+INFO  02:51:07 Saras logged in.
+INFO  02:51:09 SubmitClaim method invked.
+INFO  02:56:16 Index method invoked.
+INFO  02:56:24 Application started. Press Ctrl+C to shut down.
+INFO  02:56:24 Application started. Press Ctrl+C to shut down.
+INFO  02:56:24 Hosting environment: Development
+INFO  02:56:24 Hosting environment: Development
+INFO  02:56:24 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:56:24 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:56:24 Index method invoked.
+INFO  02:56:30 Index method invoked.
+INFO  02:56:56 Login method invoked by the Username :Saras
+INFO  02:56:56 GetToken method invoked.
+INFO  02:56:57 Index method invoked.
+INFO  02:56:57 Saras logged in.
+INFO  02:56:59 SubmitClaim method invked.
+INFO  02:57:41 SaveClaim method invoked.
+INFO  02:57:48 SubmitClaim method invked.
+INFO  02:57:59 SaveClaim method invoked.
+INFO  02:59:05 Application started. Press Ctrl+C to shut down.
+INFO  02:59:05 Application started. Press Ctrl+C to shut down.
+INFO  02:59:05 Hosting environment: Development
+INFO  02:59:05 Hosting environment: Development
+INFO  02:59:05 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:59:05 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:59:07 SaveClaim method invoked.
+INFO  02:59:27 Application started. Press Ctrl+C to shut down.
+INFO  02:59:27 Application started. Press Ctrl+C to shut down.
+INFO  02:59:27 Hosting environment: Development
+INFO  02:59:27 Hosting environment: Development
+INFO  02:59:27 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:59:27 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  02:59:29 SaveClaim method invoked.
+INFO  02:59:40 Index method invoked.
+INFO  02:59:49 Login method invoked by the Username :Saras
+INFO  02:59:49 GetToken method invoked.
+INFO  02:59:49 Index method invoked.
+INFO  02:59:49 Saras logged in.
+INFO  02:59:51 SubmitClaim method invked.
+INFO  03:02:19 Application started. Press Ctrl+C to shut down.
+INFO  03:02:19 Application started. Press Ctrl+C to shut down.
+INFO  03:02:19 Hosting environment: Development
+INFO  03:02:19 Hosting environment: Development
+INFO  03:02:19 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  03:02:19 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  03:02:19 Index method invoked.
+INFO  03:02:29 Login method invoked by the Username :Saras
+INFO  03:02:29 GetToken method invoked.
+INFO  03:02:30 Index method invoked.
+INFO  03:02:30 Saras logged in.
+INFO  03:02:31 SubmitClaim method invked.
+INFO  03:04:12 SubmitClaim method invked.
+INFO  03:05:41 Application started. Press Ctrl+C to shut down.
+INFO  03:05:41 Application started. Press Ctrl+C to shut down.
+INFO  03:05:41 Hosting environment: Development
+INFO  03:05:41 Hosting environment: Development
+INFO  03:05:41 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  03:05:41 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  03:05:41 Index method invoked.
+INFO  03:05:51 Login method invoked by the Username :Saras
+INFO  03:05:51 GetToken method invoked.
+INFO  03:05:52 Index method invoked.
+INFO  03:05:52 Saras logged in.
+INFO  03:05:54 SubmitClaim method invked.
+INFO  03:06:22 SaveClaim method invoked.
+INFO  03:06:25 SubmitClaim method invked.
+INFO  03:06:46 SubmitClaim method invked.
+INFO  03:06:55 Application started. Press Ctrl+C to shut down.
+INFO  03:06:55 Application started. Press Ctrl+C to shut down.
+INFO  03:06:55 Hosting environment: Development
+INFO  03:06:55 Hosting environment: Development
+INFO  03:06:55 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  03:06:55 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  03:06:56 Index method invoked.
+INFO  03:07:06 Login method invoked by the Username :Saras
+INFO  03:07:06 GetToken method invoked.
+INFO  03:07:07 Index method invoked.
+INFO  03:07:07 Saras logged in.
+INFO  03:07:09 SubmitClaim method invked.
+INFO  03:07:47 SaveClaim method invoked.
+INFO  03:07:50 SubmitClaim method invked.
+INFO  03:08:07 Application started. Press Ctrl+C to shut down.
+INFO  03:08:07 Application started. Press Ctrl+C to shut down.
+INFO  03:08:07 Hosting environment: Development
+INFO  03:08:07 Hosting environment: Development
+INFO  03:08:07 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  03:08:07 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  03:08:07 Index method invoked.
+INFO  03:08:18 Login method invoked by the Username :Saras
+INFO  03:08:18 GetToken method invoked.
+INFO  03:08:18 Index method invoked.
+INFO  03:08:19 Saras logged in.
+INFO  03:08:21 SubmitClaim method invked.
+INFO  03:09:18 Application started. Press Ctrl+C to shut down.
+INFO  03:09:18 Application started. Press Ctrl+C to shut down.
+INFO  03:09:18 Hosting environment: Development
+INFO  03:09:18 Hosting environment: Development
+INFO  03:09:18 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  03:09:18 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  03:09:19 Index method invoked.
+INFO  03:09:27 Login method invoked by the Username :Saras
+INFO  03:09:27 GetToken method invoked.
+INFO  03:09:27 Index method invoked.
+INFO  03:09:28 Saras logged in.
+INFO  03:09:30 SubmitClaim method invked.
+INFO  03:10:04 SaveClaim method invoked.
+INFO  03:11:12 ClaimStatus method invked.
+INFO  03:11:20 ViewBill method invoked!
+INFO  03:11:43 ClaimStatus method invked.
+INFO  03:31:05 Index method invoked.
+INFO  03:31:16 Login method invoked by the Username :Saras
+INFO  03:31:16 GetToken method invoked.
+INFO  03:31:16 Index method invoked.
+INFO  03:31:16 Saras logged in.
+INFO  04:02:40 Application started. Press Ctrl+C to shut down.
+INFO  04:02:40 Application started. Press Ctrl+C to shut down.
+INFO  04:02:40 Hosting environment: Development
+INFO  04:02:40 Hosting environment: Development
+INFO  04:02:40 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  04:02:40 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  04:02:43 Index method invoked.
+INFO  04:07:27 Application started. Press Ctrl+C to shut down.
+INFO  04:07:27 Application started. Press Ctrl+C to shut down.
+INFO  04:07:27 Hosting environment: Development
+INFO  04:07:27 Hosting environment: Development
+INFO  04:07:27 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  04:07:27 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  04:07:27 Index method invoked.
+INFO  04:07:40 Login method invoked by the Username :Saras
+INFO  04:07:40 GetToken method invoked.
+INFO  04:07:42 Index method invoked.
+INFO  04:07:42 Saras logged in.
+INFO  04:10:04 Index method invoked.
+INFO  04:10:15 Login method invoked by the Username :Saras
+INFO  04:10:15 GetToken method invoked.
+INFO  04:10:15 Index method invoked.
+INFO  04:10:15 Saras logged in.
+INFO  04:10:28 SubmitClaim method invked.
+INFO  04:10:52 SaveClaim method invoked.
+INFO  04:10:58 ClaimStatus method invked.
+INFO  04:10:59 ViewBill method invoked!
+ERROR 04:11:04 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AspNetCore.Views_Home_ViewBill.ExecuteAsync() in C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal\Views\Home\ViewBill.cshtml:line 8
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 04:11:04 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AspNetCore.Views_Home_ViewBill.ExecuteAsync() in C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal\Views\Home\ViewBill.cshtml:line 8
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  04:11:12 ClaimStatus method invked.
+INFO  04:11:14 SubmitClaim method invked.
+INFO  04:11:40 SaveClaim method invoked.
+INFO  04:11:42 ViewBill method invoked!
+INFO  04:11:49 ClaimStatus method invked.
+INFO  04:14:03 Index method invoked.
+INFO  04:26:14 Application started. Press Ctrl+C to shut down.
+INFO  04:26:14 Application started. Press Ctrl+C to shut down.
+INFO  04:26:14 Hosting environment: Development
+INFO  04:26:14 Hosting environment: Development
+INFO  04:26:14 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  04:26:14 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  04:26:14 Index method invoked.
+INFO  04:26:31 Login method invoked by the Username :Saras
+INFO  04:26:31 GetToken method invoked.
+INFO  04:26:33 Index method invoked.
+INFO  04:26:33 Saras logged in.
+INFO  04:26:37 SubmitClaim method invked.
+INFO  04:26:39 ClaimStatus method invked.
+INFO  04:29:08 Application started. Press Ctrl+C to shut down.
+INFO  04:29:08 Application started. Press Ctrl+C to shut down.
+INFO  04:29:08 Hosting environment: Development
+INFO  04:29:08 Hosting environment: Development
+INFO  04:29:08 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  04:29:08 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  04:29:08 Index method invoked.
+INFO  04:29:20 Login method invoked by the Username :Saras
+INFO  04:29:20 GetToken method invoked.
+INFO  04:29:21 Index method invoked.
+INFO  04:29:21 Saras logged in.
+INFO  04:29:23 SubmitClaim method invked.
+INFO  04:29:27 ClaimStatus method invked.
+INFO  04:30:20 Application started. Press Ctrl+C to shut down.
+INFO  04:30:20 Application started. Press Ctrl+C to shut down.
+INFO  04:30:20 Hosting environment: Development
+INFO  04:30:20 Hosting environment: Development
+INFO  04:30:20 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  04:30:20 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  04:30:21 Index method invoked.
+INFO  04:30:34 Login method invoked by the Username :Saras
+INFO  04:30:34 GetToken method invoked.
+INFO  04:30:35 Index method invoked.
+INFO  04:30:35 Saras logged in.
+INFO  04:30:42 SubmitClaim method invked.
+INFO  04:30:44 ClaimStatus method invked.
+INFO  04:30:52 SubmitClaim method invked.
+INFO  04:34:36 Application started. Press Ctrl+C to shut down.
+INFO  04:34:36 Application started. Press Ctrl+C to shut down.
+INFO  04:34:36 Hosting environment: Development
+INFO  04:34:36 Hosting environment: Development
+INFO  04:34:36 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  04:34:36 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  04:34:36 Index method invoked.
+INFO  04:37:28 Application started. Press Ctrl+C to shut down.
+INFO  04:37:28 Application started. Press Ctrl+C to shut down.
+INFO  04:37:28 Hosting environment: Development
+INFO  04:37:28 Hosting environment: Development
+INFO  04:37:28 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  04:37:28 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  04:37:28 Index method invoked.
+INFO  04:37:58 Login method invoked by the Username :Saras
+INFO  04:37:58 GetToken method invoked.
+INFO  04:37:59 Index method invoked.
+INFO  04:37:59 Saras logged in.
+INFO  04:38:04 SubmitClaim method invked.
+INFO  04:41:13 Index method invoked.
+INFO  04:41:23 Login method invoked by the Username :Saras
+INFO  04:41:23 GetToken method invoked.
+INFO  04:41:23 Index method invoked.
+INFO  04:41:23 Saras logged in.
+INFO  04:42:39 ClaimStatus method invked.
+INFO  04:42:41 SubmitClaim method invked.
+INFO  04:55:07 Index method invoked.
+INFO  05:17:19 Login method invoked by the Username :Saras
+INFO  05:17:19 GetToken method invoked.
+INFO  05:17:19 Index method invoked.
+INFO  05:17:19 Saras logged in.
+INFO  05:17:22 SubmitClaim method invked.
+INFO  05:17:23 ClaimStatus method invked.
+ERROR 05:17:45 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AspNetCore.Views_Home_ViewBill.ExecuteAsync() in C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal\Views\Home\ViewBill.cshtml:line 8
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 05:17:45 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AspNetCore.Views_Home_ViewBill.ExecuteAsync() in C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal\Views\Home\ViewBill.cshtml:line 8
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  05:17:47 ClaimStatus method invked.
+INFO  05:19:03 SubmitClaim method invked.
+INFO  05:21:01 Index method invoked.
+INFO  05:21:01 Saras logged in.
+INFO  05:21:03 Index method invoked.
+INFO  05:21:03 Saras logged in.
+INFO  05:21:05 SubmitClaim method invked.
+INFO  05:21:06 ClaimStatus method invked.
+INFO  05:21:07 SubmitClaim method invked.
+INFO  06:39:03 Index method invoked.
+INFO  07:27:07 Application started. Press Ctrl+C to shut down.
+INFO  07:27:07 Application started. Press Ctrl+C to shut down.
+INFO  07:27:07 Hosting environment: Development
+INFO  07:27:07 Hosting environment: Development
+INFO  07:27:07 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  07:27:07 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  07:27:09 Index method invoked.
+INFO  07:27:40 Login method invoked by the Username :Saras
+INFO  07:27:42 GetToken method invoked.
+INFO  07:27:54 Index method invoked.
+INFO  07:27:56 Saras logged in.
+INFO  07:28:14 SubmitClaim method invked.
+INFO  07:28:45 SaveClaim method invoked.
+INFO  07:28:56 ClaimStatus method invked.
+INFO  07:29:08 ViewBill method invoked!
+ERROR 07:29:09 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AspNetCore.Views_Home_ViewBill.ExecuteAsync() in C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal\Views\Home\ViewBill.cshtml:line 8
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:29:09 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AspNetCore.Views_Home_ViewBill.ExecuteAsync() in C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal\Views\Home\ViewBill.cshtml:line 8
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  07:29:12 ClaimStatus method invked.
+INFO  07:33:50 Index method invoked.
+INFO  07:34:03 Login method invoked by the Username :Saras
+INFO  07:34:03 GetToken method invoked.
+INFO  07:34:05 Index method invoked.
+INFO  07:34:05 Saras logged in.
+INFO  07:34:11 SubmitClaim method invked.
+INFO  07:34:27 SaveClaim method invoked.
+INFO  07:34:30 ViewBill method invoked!
+INFO  07:59:57 Index method invoked.
+INFO  08:00:08 Login method invoked by the Username :Saras
+INFO  08:00:08 GetToken method invoked.
+INFO  08:00:08 Index method invoked.
+INFO  08:00:08 Saras logged in.
+INFO  08:00:39 SubmitClaim method invked.
+INFO  08:01:51 Index method invoked.
+INFO  08:01:51 Saras logged in.
+INFO  08:12:47 Application started. Press Ctrl+C to shut down.
+INFO  08:12:47 Application started. Press Ctrl+C to shut down.
+INFO  08:12:47 Hosting environment: Development
+INFO  08:12:47 Hosting environment: Development
+INFO  08:12:47 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  08:12:47 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  08:12:47 Index method invoked.
+INFO  08:14:52 Login method invoked by the Username :Saras
+INFO  08:14:52 GetToken method invoked.
+INFO  08:14:53 Index method invoked.
+INFO  08:14:53 Saras logged in.
+INFO  08:15:07 SubmitClaim method invked.
+INFO  08:15:11 ClaimStatus method invked.
+INFO  08:15:13 SubmitClaim method invked.
+INFO  08:16:09 SaveClaim method invoked.
+INFO  08:16:12 ClaimStatus method invked.
+INFO  08:16:19 SubmitStatus mehod invoked with Memeber Id 0
+INFO  08:16:26 ViewBill method invoked!
+INFO  08:18:06 Application started. Press Ctrl+C to shut down.
+INFO  08:18:06 Application started. Press Ctrl+C to shut down.
+INFO  08:18:06 Hosting environment: Development
+INFO  08:18:06 Hosting environment: Development
+INFO  08:18:06 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  08:18:06 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  08:18:06 Index method invoked.
+INFO  08:18:27 Application started. Press Ctrl+C to shut down.
+INFO  08:18:27 Application started. Press Ctrl+C to shut down.
+INFO  08:18:27 Hosting environment: Development
+INFO  08:18:27 Hosting environment: Development
+INFO  08:18:27 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  08:18:27 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  08:18:27 Index method invoked.
+INFO  08:28:29 Login method invoked by the Username :Saras
+INFO  08:28:29 GetToken method invoked.
+INFO  08:28:31 Index method invoked.
+INFO  08:28:31 Saras logged in.
+INFO  08:28:33 SubmitClaim method invked.
+INFO  08:28:48 SaveClaim method invoked.
+INFO  08:28:52 ViewBill method invoked!
+INFO  08:33:02 Application started. Press Ctrl+C to shut down.
+INFO  08:33:02 Application started. Press Ctrl+C to shut down.
+INFO  08:33:02 Hosting environment: Development
+INFO  08:33:02 Hosting environment: Development
+INFO  08:33:02 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  08:33:02 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  08:33:02 Index method invoked.
+INFO  08:33:14 Login method invoked by the Username :Saras
+INFO  08:33:14 GetToken method invoked.
+INFO  08:33:15 Index method invoked.
+INFO  08:33:15 Saras logged in.
+INFO  08:33:17 SubmitClaim method invked.
+INFO  08:33:32 SaveClaim method invoked.
+INFO  08:33:35 ViewBill method invoked!
+INFO  08:45:50 Application started. Press Ctrl+C to shut down.
+INFO  08:45:50 Application started. Press Ctrl+C to shut down.
+INFO  08:45:50 Hosting environment: Development
+INFO  08:45:50 Hosting environment: Development
+INFO  08:45:50 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  08:45:50 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  08:45:51 Index method invoked.
+INFO  09:02:06 Login method invoked by the Username :Saras
+INFO  09:02:06 GetToken method invoked.
+INFO  09:02:08 Index method invoked.
+INFO  09:02:09 Saras logged in.
+INFO  09:02:11 SubmitClaim method invked.
+INFO  09:02:28 SaveClaim method invoked.
+INFO  09:02:31 ViewBill method invoked!
+INFO  09:07:20 Application started. Press Ctrl+C to shut down.
+INFO  09:07:20 Application started. Press Ctrl+C to shut down.
+INFO  09:07:20 Hosting environment: Development
+INFO  09:07:20 Hosting environment: Development
+INFO  09:07:20 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:07:20 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:07:21 Index method invoked.
+INFO  09:07:49 Login method invoked by the Username :Saras
+INFO  09:07:49 GetToken method invoked.
+INFO  09:07:50 Index method invoked.
+INFO  09:07:51 Saras logged in.
+INFO  09:07:53 SubmitClaim method invked.
+INFO  09:08:08 SaveClaim method invoked.
+INFO  09:08:11 ViewBill method invoked!
+INFO  09:10:29 Application started. Press Ctrl+C to shut down.
+INFO  09:10:29 Application started. Press Ctrl+C to shut down.
+INFO  09:10:29 Hosting environment: Development
+INFO  09:10:29 Hosting environment: Development
+INFO  09:10:29 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:10:29 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:10:29 Index method invoked.
+INFO  09:12:08 Application started. Press Ctrl+C to shut down.
+INFO  09:12:08 Application started. Press Ctrl+C to shut down.
+INFO  09:12:08 Hosting environment: Development
+INFO  09:12:08 Hosting environment: Development
+INFO  09:12:08 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:12:08 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:12:08 Index method invoked.
+INFO  09:12:18 Login method invoked by the Username :Saras
+INFO  09:12:18 GetToken method invoked.
+INFO  09:12:19 Index method invoked.
+INFO  09:12:19 Saras logged in.
+INFO  09:12:21 SubmitClaim method invked.
+INFO  09:12:38 SaveClaim method invoked.
+INFO  09:12:42 ViewBill method invoked!
+INFO  09:17:55 Application started. Press Ctrl+C to shut down.
+INFO  09:17:55 Application started. Press Ctrl+C to shut down.
+INFO  09:17:55 Hosting environment: Development
+INFO  09:17:55 Hosting environment: Development
+INFO  09:17:55 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:17:55 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:17:56 Index method invoked.
+INFO  09:18:06 Login method invoked by the Username :Saras
+INFO  09:18:06 GetToken method invoked.
+INFO  09:18:06 Index method invoked.
+INFO  09:18:07 Saras logged in.
+INFO  09:18:09 SubmitClaim method invked.
+INFO  09:18:28 SaveClaim method invoked.
+INFO  09:18:30 ViewBill method invoked!
+INFO  09:33:24 Application started. Press Ctrl+C to shut down.
+INFO  09:33:24 Application started. Press Ctrl+C to shut down.
+INFO  09:33:24 Hosting environment: Development
+INFO  09:33:24 Hosting environment: Development
+INFO  09:33:24 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:33:24 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:33:25 Index method invoked.
+INFO  09:37:06 Application started. Press Ctrl+C to shut down.
+INFO  09:37:06 Application started. Press Ctrl+C to shut down.
+INFO  09:37:06 Hosting environment: Development
+INFO  09:37:06 Hosting environment: Development
+INFO  09:37:06 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:37:06 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:37:07 Index method invoked.
+INFO  09:37:07 Index method invoked.
+INFO  09:37:30 Application started. Press Ctrl+C to shut down.
+INFO  09:37:30 Application started. Press Ctrl+C to shut down.
+INFO  09:37:30 Hosting environment: Development
+INFO  09:37:30 Hosting environment: Development
+INFO  09:37:30 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:37:30 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:37:30 Index method invoked.
+INFO  09:37:38 Index method invoked.
+INFO  09:37:53 Login method invoked by the Username :Saras
+INFO  09:37:53 GetToken method invoked.
+INFO  09:37:54 Index method invoked.
+INFO  09:37:55 Saras logged in.
+INFO  09:37:57 SubmitClaim method invked.
+INFO  09:38:13 SaveClaim method invoked.
+INFO  09:38:28 ViewBill method invoked!
+INFO  09:38:28 ViewBill method invoked!
+INFO  09:49:47 Application started. Press Ctrl+C to shut down.
+INFO  09:49:47 Application started. Press Ctrl+C to shut down.
+INFO  09:49:47 Hosting environment: Development
+INFO  09:49:47 Hosting environment: Development
+INFO  09:49:47 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:49:47 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:49:47 Index method invoked.
+INFO  09:49:57 Login method invoked by the Username :Saras
+INFO  09:49:57 GetToken method invoked.
+INFO  09:49:57 Index method invoked.
+INFO  09:49:58 Saras logged in.
+INFO  09:50:00 SubmitClaim method invked.
+INFO  09:50:13 SaveClaim method invoked.
+INFO  09:50:15 ViewBill method invoked!
+INFO  09:53:48 Application started. Press Ctrl+C to shut down.
+INFO  09:53:48 Application started. Press Ctrl+C to shut down.
+INFO  09:53:48 Hosting environment: Development
+INFO  09:53:48 Hosting environment: Development
+INFO  09:53:48 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:53:48 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:53:48 Index method invoked.
+INFO  09:57:55 Application started. Press Ctrl+C to shut down.
+INFO  09:57:55 Application started. Press Ctrl+C to shut down.
+INFO  09:57:55 Hosting environment: Development
+INFO  09:57:55 Hosting environment: Development
+INFO  09:57:55 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:57:55 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:57:55 Index method invoked.
+INFO  09:58:05 Login method invoked by the Username :Saras
+INFO  09:58:05 GetToken method invoked.
+INFO  09:58:06 Index method invoked.
+INFO  09:58:06 Saras logged in.
+INFO  09:58:09 SubmitClaim method invked.
+INFO  09:58:24 SaveClaim method invoked.
+INFO  09:58:26 ViewBill method invoked!
+INFO  09:59:44 Application started. Press Ctrl+C to shut down.
+INFO  09:59:44 Application started. Press Ctrl+C to shut down.
+INFO  09:59:44 Hosting environment: Development
+INFO  09:59:44 Hosting environment: Development
+INFO  09:59:44 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:59:44 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  09:59:44 Index method invoked.
+INFO  09:59:56 Login method invoked by the Username :Sumitha
+INFO  09:59:56 GetToken method invoked.
+INFO  09:59:57 Index method invoked.
+INFO  09:59:57 Sumitha logged in.
+INFO  10:00:07 SubmitClaim method invked.
+INFO  10:00:24 SaveClaim method invoked.
+INFO  10:00:26 ViewBill method invoked!
+INFO  10:00:45 SubmitClaim method invked.
+INFO  10:00:46 Index method invoked.
+INFO  10:00:46 Sumitha logged in.
+INFO  10:01:12 Application started. Press Ctrl+C to shut down.
+INFO  10:01:12 Application started. Press Ctrl+C to shut down.
+INFO  10:01:12 Hosting environment: Development
+INFO  10:01:12 Hosting environment: Development
+INFO  10:01:12 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:01:12 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem\MemberPortal
+INFO  10:01:12 Index method invoked.
+INFO  10:04:31 Index method invoked.
+INFO  10:05:03 Login method invoked by the Username :Saras
+INFO  10:05:03 GetToken method invoked.
+INFO  10:05:05 Index method invoked.
+INFO  10:05:06 Saras logged in.
+INFO  10:05:13 SubmitClaim method invked.
+INFO  10:05:45 SaveClaim method invoked.
+INFO  10:05:49 ClaimStatus method invked.
+INFO  10:05:57 SubmitStatus mehod invoked with Memeber Id 0
+INFO  10:06:01 ViewBill method invoked!
+INFO  10:06:09 Logout method invoked.  logged out.
+INFO  10:06:09 Index method invoked.
